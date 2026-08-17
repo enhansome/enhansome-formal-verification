@@ -25,7 +25,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Formal Verification
 
 * [ivy](https://github.com/microsoft/ivy) ⚠️ Archived - IVy is a research tool/language intended to allow interactive development of protocols and their proofs of correctness and to provide a platform for developing and experimenting with automated proof techniques.
-* [Verity](https://github.com/th0rgal/verity) ⭐ 144 | 🐛 27 | 🌐 Lean | 📅 2026-08-16 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
+* [Verity](https://github.com/th0rgal/verity) ⭐ 144 | 🐛 25 | 🌐 Lean | 📅 2026-08-17 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
 * [Panther](https://github.com/ElNiak/PANTHER) ⭐ 42 | 🐛 21 | 🌐 Python | 📅 2026-08-03 - This tool presents a novel approach to bolstering network protocol verification by integrating the Shadow network simulator with the Ivy formal verification tool to check time properties. Furthermore, it extends Ivy's capabilities with a dedicated time module, enabling the verification of complex quantitative-time properties.
 * [ProofOS](https://github.com/Aevion-ai/ProofOS) ⭐ 0 | 🐛 49 | 🌐 Python | 📅 2026-08-09 - Receipt-chained proof obligation ledger for Lean 4. Publishes a machine-readable open-obligation surface (Godel register) with SHA-256 canonical receipts and a multi-agent counsel colony for adversarial review.
 * [Uppaal](https://uppaal.org/) - Uppaal is an integrated tool environment for modeling, validation and verification of real-time systems modeled as networks of timed automata, extended with data types (bounded integers, arrays, etc.).
@@ -85,7 +85,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Simulation
 
 * [Verilator](https://www.veripool.org/projects/verilator/wiki/Intro) - Verilator is  "the fastest free Verilog HDL simulator". From a verification perspective it supports *line coverage*, *signal toggle coverage* and limited specification of *functional coverage* using SystemVerilog Assertions. It also allows one to write testbenches in C++ or SystemC.
-* [Icarus Verilog](https://github.com/steveicarus/iverilog) ⭐ 3,593 | 🐛 188 | 🌐 C++ | 📅 2026-08-11 - The excellent Icarus Verilog simulator. Slower than Verilator, but it supports full 4-state simulation (i.e. X's and Z's).
+* [Icarus Verilog](https://github.com/steveicarus/iverilog) ⭐ 3,595 | 🐛 189 | 🌐 C++ | 📅 2026-08-17 - The excellent Icarus Verilog simulator. Slower than Verilator, but it supports full 4-state simulation (i.e. X's and Z's).
 
 #### Build Systems and Continuous Integration
 
@@ -94,8 +94,8 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 #### Test / Program / Code Generators
 
-* [riscv-dv](https://github.com/chipsalliance/riscv-dv) ⭐ 1,343 | 🐛 163 | 🌐 Python | 📅 2026-04-03 - Instruction sequence generator for RISC-V.
-* [rggen](https://github.com/rggen/rggen) ⭐ 466 | 🐛 24 | 🌐 Ruby | 📅 2026-07-16 - Code generation tool for configuration and status registers.
+* [riscv-dv](https://github.com/chipsalliance/riscv-dv) ⭐ 1,344 | 🐛 163 | 🌐 Python | 📅 2026-04-03 - Instruction sequence generator for RISC-V.
+* [rggen](https://github.com/rggen/rggen) ⭐ 467 | 🐛 23 | 🌐 Ruby | 📅 2026-08-16 - Code generation tool for configuration and status registers.
 * [FORCE-RISCV](https://github.com/openhwgroup/force-riscv) ⭐ 312 | 🐛 19 | 🌐 C++ | 📅 2023-10-17 - Instruction sequence generator for RISC-V.
 * [AAPG (Automated Assembly Program Generator)](https://gitlab.com/shaktiproject/tools/aapg) - Generator for assembly programs.
 
@@ -106,7 +106,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Linting and Parsing
 
 * [sv-parser](https://github.com/dalance/sv-parser) ⭐ 481 | 🐛 40 | 🌐 Rust | 📅 2026-06-10 - SystemVerilog parser.
-* [Surelog](https://github.com/chipsalliance/Surelog) ⭐ 472 | 🐛 48 | 🌐 C++ | 📅 2026-08-14 - SystemVerilog pre-processor and parser.
+* [Surelog](https://github.com/chipsalliance/Surelog) ⭐ 472 | 🐛 47 | 🌐 C++ | 📅 2026-08-16 - SystemVerilog pre-processor and parser.
 * [svlint](https://github.com/dalance/svlint) ⭐ 388 | 🐛 24 | 🌐 Rust | 📅 2025-11-06 - Linter for SystemVerilog.
 
 #### Testbench Frameworks
@@ -123,10 +123,10 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 #### Components / VIPs
 
-* [AXI SystemVerilog Modules and Verification Infrastructure](https://github.com/pulp-platform/axi) ⭐ 1,658 | 🐛 70 | 🌐 SystemVerilog | 📅 2026-08-05 - SystemVerilog modules and verification infrastructure for AXI bus.
+* [AXI SystemVerilog Modules and Verification Infrastructure](https://github.com/pulp-platform/axi) ⭐ 1,659 | 🐛 70 | 🌐 SystemVerilog | 📅 2026-08-05 - SystemVerilog modules and verification infrastructure for AXI bus.
 * [AXI Bus Functional Model tvip-axi](https://github.com/taichi-ishitani/tvip-axi) ⭐ 472 | 🐛 8 | 🌐 SystemVerilog | 📅 2024-06-28 - Functional model for AXI bus.
 * [RISC-V-TLM](https://github.com/mariusmm/RISC-V-TLM) ⭐ 360 | 🐛 6 | 🌐 C | 📅 2026-02-20 - A SystemC transaction level model of RISC-V.
-* [uvm\_axi](https://github.com/funningboy/uvm_axi) ⭐ 273 | 🐛 4 | 🌐 Verilog | 📅 2013-06-23 - AXI bus verification IP.
+* [uvm\_axi](https://github.com/funningboy/uvm_axi) ⭐ 274 | 🐛 4 | 🌐 Verilog | 📅 2013-06-23 - AXI bus verification IP.
 * [AXI Bus Formal VIP](https://github.com/kumarrishav14/AXI) ⭐ 184 | 🐛 5 | 🌐 SystemVerilog | 📅 2022-05-24 - Formal verification IP for AXI bus.
 * [Cocotb Verification IPs](https://github.com/themperek/cocotb-vivado) ⭐ 75 | 🐛 6 | 🌐 Python | 📅 2026-08-14 - Various cocotb packages for common interfaces: AXI/Ethernet/PCIE.
 * [APB Bus Functional Model tvip-apb](https://github.com/taichi-ishitani/tvip-apb) ⭐ 35 | 🐛 1 | 🌐 SystemVerilog | 📅 2023-11-07 - Functional model for APB bus.
@@ -206,4 +206,4 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

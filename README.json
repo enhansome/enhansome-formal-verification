@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lean",
-            "last_commit": "2026-08-16T02:05:15Z",
+            "last_commit": "2026-08-17T02:07:34Z",
             "owner": "lfglabs-dev",
             "repo": "verity",
             "stars": 144
@@ -144,7 +144,7 @@
             "last_commit": "2026-04-03T15:17:27Z",
             "owner": "chipsalliance",
             "repo": "riscv-dv",
-            "stars": 1343
+            "stars": 1344
           }
         },
         {
@@ -155,10 +155,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-07-16T23:55:25Z",
+            "last_commit": "2026-08-16T03:07:59Z",
             "owner": "rggen",
             "repo": "rggen",
-            "stars": 466
+            "stars": 467
           }
         },
         {
@@ -203,7 +203,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T03:34:04Z",
+            "last_commit": "2026-08-16T02:48:18Z",
             "owner": "chipsalliance",
             "repo": "Surelog",
             "stars": 472
@@ -302,7 +302,7 @@
             "last_commit": "2026-08-05T08:35:03Z",
             "owner": "pulp-platform",
             "repo": "axi",
-            "stars": 1658
+            "stars": 1659
           }
         },
         {
@@ -344,7 +344,7 @@
             "last_commit": "2013-06-23T08:03:15Z",
             "owner": "funningboy",
             "repo": "uvm_axi",
-            "stars": 273
+            "stars": 274
           }
         },
         {
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:10:25.216Z",
+    "last_updated": "2026-08-17T02:08:14.503Z",
     "original_repository": "ElNiak/awesome-formal-verification",
     "original_repository_sha": "d8b5e314d1c894d1c6fb1490691513cc66a6fb8e",
     "enhanced_repository": "enhansome/enhansome-formal-verification",
