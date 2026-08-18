@@ -25,7 +25,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Formal Verification
 
 * [ivy](https://github.com/microsoft/ivy) ⚠️ Archived - IVy is a research tool/language intended to allow interactive development of protocols and their proofs of correctness and to provide a platform for developing and experimenting with automated proof techniques.
-* [Verity](https://github.com/th0rgal/verity) ⭐ 144 | 🐛 25 | 🌐 Lean | 📅 2026-08-17 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
+* [Verity](https://github.com/th0rgal/verity) ⭐ 144 | 🐛 30 | 🌐 Lean | 📅 2026-08-17 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
 * [Panther](https://github.com/ElNiak/PANTHER) ⭐ 42 | 🐛 21 | 🌐 Python | 📅 2026-08-03 - This tool presents a novel approach to bolstering network protocol verification by integrating the Shadow network simulator with the Ivy formal verification tool to check time properties. Furthermore, it extends Ivy's capabilities with a dedicated time module, enabling the verification of complex quantitative-time properties.
 * [ProofOS](https://github.com/Aevion-ai/ProofOS) ⭐ 0 | 🐛 49 | 🌐 Python | 📅 2026-08-09 - Receipt-chained proof obligation ledger for Lean 4. Publishes a machine-readable open-obligation surface (Godel register) with SHA-256 canonical receipts and a multi-agent counsel colony for adversarial review.
 * [Uppaal](https://uppaal.org/) - Uppaal is an integrated tool environment for modeling, validation and verification of real-time systems modeled as networks of timed automata, extended with data types (bounded integers, arrays, etc.).
@@ -65,7 +65,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 #### Formal Verification
 
-* [ABC](https://github.com/berkeley-abc/abc) ⭐ 1,213 | 🐛 229 | 🌐 C | 📅 2026-08-15 - ABC: System for Sequential Logic Synthesis and Formal Verification. ABC notably provides combinational equivalence checking (CEC) and sequential equivalence checking (SEQ) engines.
+* [ABC](https://github.com/berkeley-abc/abc) ⭐ 1,213 | 🐛 228 | 🌐 C | 📅 2026-08-17 - ABC: System for Sequential Logic Synthesis and Formal Verification. ABC notably provides combinational equivalence checking (CEC) and sequential equivalence checking (SEQ) engines.
 * [riscv-formal](https://github.com/SymbioticEDA/riscv-formal) ⭐ 633 | 🐛 23 | 🌐 Verilog | 📅 2022-04-06 - A re-usable formal verification framework for RISC-V CPU designs.
 * [MCY](https://github.com/YosysHQ/mcy) ⭐ 97 | 🐛 2 | 🌐 C++ | 📅 2026-08-05 - MCY is a new tool to help digital designers and project managers understand and improve testbench coverage. Given a self checking testbench, mcy generates 1000s of mutations by modifying individual signals in a post synthesis netlist. These mutations are then filtered using Formal Verification techniques, keeping only those that can cause an important change in the design's output. All mutated designs are run against the testbench to check that the testbench will detect and fail for a relevant mutation. The testbench can then be improved to get 100% complete coverage.
 * [Symbiyosys](https://symbiyosys.readthedocs.io/en/latest/quickstart.html#prerequisites) - SymbiYosis a front-end driver program for Yosys-based formal hardware verification flows. SymbiYosys provides flows for the following formal tasks: Bounded verification of safety properties (assertions), Unbounded verification of safety properties, Generation of test benches from cover statements, Verification of liveness properties.
@@ -111,7 +111,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 #### Testbench Frameworks
 
-* [UVVM](https://github.com/UVVM/UVVM) ⭐ 457 | 🐛 24 | 🌐 VHDL | 📅 2026-04-22 - Universal VHDL Verification Methodology.
+* [UVVM](https://github.com/UVVM/UVVM) ⭐ 458 | 🐛 24 | 🌐 VHDL | 📅 2026-04-22 - Universal VHDL Verification Methodology.
 * [chiselverify](https://github.com/chiselverify/chiselverify) ⭐ 163 | 🐛 8 | 🌐 Scala | 📅 2024-11-09 - UVM-like verification for the Chisel HDL.
 * [fvutils/pyvsc](https://github.com/fvutils/pyvsc) ⭐ 148 | 🐛 52 | 🌐 Python | 📅 2026-07-05 - Python packages providing a library for verification stimulus and coverage.
 * [ROHD Verification Framework](https://github.com/intel/rohd-vf) ⭐ 48 | 🐛 5 | 🌐 Dart | 📅 2026-07-13 - Hardware verification framework upon ROHD for building and executing testbenches.
@@ -123,7 +123,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 #### Components / VIPs
 
-* [AXI SystemVerilog Modules and Verification Infrastructure](https://github.com/pulp-platform/axi) ⭐ 1,659 | 🐛 70 | 🌐 SystemVerilog | 📅 2026-08-05 - SystemVerilog modules and verification infrastructure for AXI bus.
+* [AXI SystemVerilog Modules and Verification Infrastructure](https://github.com/pulp-platform/axi) ⭐ 1,659 | 🐛 71 | 🌐 SystemVerilog | 📅 2026-08-05 - SystemVerilog modules and verification infrastructure for AXI bus.
 * [AXI Bus Functional Model tvip-axi](https://github.com/taichi-ishitani/tvip-axi) ⭐ 472 | 🐛 8 | 🌐 SystemVerilog | 📅 2024-06-28 - Functional model for AXI bus.
 * [RISC-V-TLM](https://github.com/mariusmm/RISC-V-TLM) ⭐ 360 | 🐛 6 | 🌐 C | 📅 2026-02-20 - A SystemC transaction level model of RISC-V.
 * [uvm\_axi](https://github.com/funningboy/uvm_axi) ⭐ 274 | 🐛 4 | 🌐 Verilog | 📅 2013-06-23 - AXI bus verification IP.
@@ -139,7 +139,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
   * [Idris tutorial](http://docs.idris-lang.org/en/latest/tutorial/index.html#tutorial-index)
   * [Theorem proving with Idris tutorial](http://docs.idris-lang.org/en/latest/proofs/index.html)
 * [Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php) - Dependently typed functional programming language.
-  * [Agda GitHub](https://github.com/agda/agda) ⭐ 2,914 | 🐛 1,045 | 🌐 Haskell | 📅 2026-08-14
+  * [Agda GitHub](https://github.com/agda/agda) ⭐ 2,916 | 🐛 1,046 | 🌐 Haskell | 📅 2026-08-14
   * [Agda User Manual](http://agda.readthedocs.io/en/v2.5.2/)
 * [UR/Web](http://www.impredicative.com/ur/) - Ur plus a special standard library for dynamic web applications.
 * [Haskell](https://www.haskell.org/) - An advanced, purely functional programming language.
@@ -206,4 +206,4 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
