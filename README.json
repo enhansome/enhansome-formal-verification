@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lean",
-            "last_commit": "2026-08-17T20:44:05Z",
+            "last_commit": "2026-08-19T01:34:44Z",
             "owner": "lfglabs-dev",
             "repo": "verity",
             "stars": 144
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:05:08.942Z",
+    "last_updated": "2026-08-19T02:06:59.191Z",
     "original_repository": "ElNiak/awesome-formal-verification",
     "original_repository_sha": "d8b5e314d1c894d1c6fb1490691513cc66a6fb8e",
     "enhanced_repository": "enhansome/enhansome-formal-verification",
