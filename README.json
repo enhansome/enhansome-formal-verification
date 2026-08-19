@@ -1,415 +1,453 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ivy",
+                  "description": "IVy is a research tool/language intended to allow interactive development of protocols and their proofs of correctness and to provide a platform for developing and experimenting with automated proof techniques.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 48673189,
+                    "language": "C++",
+                    "last_commit": "2021-01-06T13:06:17Z",
+                    "owner": "microsoft",
+                    "repo": "ivy",
+                    "stars": 239
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Verity",
+                  "description": "Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1152936905,
+                    "language": "Lean",
+                    "last_commit": "2026-08-19T01:34:44Z",
+                    "owner": "lfglabs-dev",
+                    "repo": "verity",
+                    "stars": 144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Panther",
+                  "description": "This tool presents a novel approach to bolstering network protocol verification by integrating the Shadow network simulator with the Ivy formal verification tool to check time properties. Furthermore, it extends Ivy's capabilities with a dedicated time module, enabling the verification of complex quantitative-time properties.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 426255598,
+                    "language": "Python",
+                    "last_commit": "2026-08-03T13:49:39Z",
+                    "owner": "ElNiak",
+                    "repo": "PANTHER",
+                    "stars": 42
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ProofOS",
+                  "description": "Receipt-chained proof obligation ledger for Lean 4. Publishes a machine-readable open-obligation surface (Godel register) with SHA-256 canonical receipts and a multi-agent counsel colony for adversarial review.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1264357299,
+                    "language": "Python",
+                    "last_commit": "2026-08-09T15:10:29Z",
+                    "owner": "Aevion-ai",
+                    "repo": "ProofOS",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Formal Verification"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        }
+      ],
       "title": "Software Verification"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "ivy",
-          "description": "IVy is a research tool/language intended to allow interactive development of protocols and their proofs of correctness and to provide a platform for developing and experimenting with automated proof techniques.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2021-01-06T13:06:17Z",
-            "owner": "microsoft",
-            "repo": "ivy",
-            "stars": 239
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Verity",
-          "description": "Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lean",
-            "last_commit": "2026-08-19T01:34:44Z",
-            "owner": "lfglabs-dev",
-            "repo": "verity",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Panther",
-          "description": "This tool presents a novel approach to bolstering network protocol verification by integrating the Shadow network simulator with the Ivy formal verification tool to check time properties. Furthermore, it extends Ivy's capabilities with a dedicated time module, enabling the verification of complex quantitative-time properties.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T13:49:39Z",
-            "owner": "ElNiak",
-            "repo": "PANTHER",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ProofOS",
-          "description": "Receipt-chained proof obligation ledger for Lean 4. Publishes a machine-readable open-obligation surface (Godel register) with SHA-256 canonical receipts and a multi-agent counsel colony for adversarial review.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T15:10:29Z",
-            "owner": "Aevion-ai",
-            "repo": "ProofOS",
-            "stars": 0
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ABC",
+                  "description": "ABC: System for Sequential Logic Synthesis and Formal Verification. ABC notably provides combinational equivalence checking (CEC) and sequential equivalence checking (SEQ) engines.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 124750053,
+                    "language": "C",
+                    "last_commit": "2026-08-17T06:21:07Z",
+                    "owner": "berkeley-abc",
+                    "repo": "abc",
+                    "stars": 1213
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "riscv-formal",
+                  "description": "A re-usable formal verification framework for RISC-V CPU designs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 74998636,
+                    "language": "Verilog",
+                    "last_commit": "2022-04-06T01:24:21Z",
+                    "owner": "SymbioticEDA",
+                    "repo": "riscv-formal",
+                    "stars": 633
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MCY",
+                  "description": "MCY is a new tool to help digital designers and project managers understand and improve testbench coverage. Given a self checking testbench, mcy generates 1000s of mutations by modifying individual signals in a post synthesis netlist. These mutations are then filtered using Formal Verification techniques, keeping only those that can cause an important change in the design's output. All mutated designs are run against the testbench to check that the testbench will detect and fail for a relevant mutation. The testbench can then be improved to get 100% complete coverage.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 185404842,
+                    "language": "C++",
+                    "last_commit": "2026-08-05T07:28:07Z",
+                    "owner": "YosysHQ",
+                    "repo": "mcy",
+                    "stars": 97
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Formal Verification"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "riscv-dv",
+                  "description": "Instruction sequence generator for RISC-V.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 167140400,
+                    "language": "Python",
+                    "last_commit": "2026-04-03T15:17:27Z",
+                    "owner": "chipsalliance",
+                    "repo": "riscv-dv",
+                    "stars": 1344
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "rggen",
+                  "description": "Code generation tool for configuration and status registers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 180550709,
+                    "language": "Ruby",
+                    "last_commit": "2026-08-16T03:07:59Z",
+                    "owner": "rggen",
+                    "repo": "rggen",
+                    "stars": 467
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FORCE-RISCV",
+                  "description": "Instruction sequence generator for RISC-V.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 271641901,
+                    "language": "C++",
+                    "last_commit": "2023-10-17T10:28:18Z",
+                    "owner": "openhwgroup",
+                    "repo": "force-riscv",
+                    "stars": 312
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Test / Program / Code Generators"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "sv-parser",
+                  "description": "SystemVerilog parser.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 195226023,
+                    "language": "Rust",
+                    "last_commit": "2026-06-10T01:05:59Z",
+                    "owner": "dalance",
+                    "repo": "sv-parser",
+                    "stars": 481
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Surelog",
+                  "description": "SystemVerilog pre-processor and parser.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 218417034,
+                    "language": "C++",
+                    "last_commit": "2026-08-16T02:48:18Z",
+                    "owner": "chipsalliance",
+                    "repo": "Surelog",
+                    "stars": 472
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "svlint",
+                  "description": "Linter for SystemVerilog.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 216552919,
+                    "language": "Rust",
+                    "last_commit": "2025-11-06T20:01:47Z",
+                    "owner": "dalance",
+                    "repo": "svlint",
+                    "stars": 388
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Linting and Parsing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "UVVM",
+                  "description": "Universal VHDL Verification Methodology.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 50093478,
+                    "language": "VHDL",
+                    "last_commit": "2026-04-22T12:02:19Z",
+                    "owner": "UVVM",
+                    "repo": "UVVM",
+                    "stars": 458
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "chiselverify",
+                  "description": "UVM-like verification for the Chisel HDL.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 267338934,
+                    "language": "Scala",
+                    "last_commit": "2024-11-09T16:18:23Z",
+                    "owner": "chiselverify",
+                    "repo": "chiselverify",
+                    "stars": 163
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "fvutils/pyvsc",
+                  "description": "Python packages providing a library for verification stimulus and coverage.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 198527127,
+                    "language": "Python",
+                    "last_commit": "2026-07-05T21:24:16Z",
+                    "owner": "fvutils",
+                    "repo": "pyvsc",
+                    "stars": 148
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ROHD Verification Framework",
+                  "description": "Hardware verification framework upon ROHD for building and executing testbenches.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 426054568,
+                    "language": "Dart",
+                    "last_commit": "2026-07-13T17:56:17Z",
+                    "owner": "intel",
+                    "repo": "rohd-vf",
+                    "stars": 48
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Testbench Frameworks"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AXI SystemVerilog Modules and Verification Infrastructure",
+                  "description": "SystemVerilog modules and verification infrastructure for AXI bus.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 129229399,
+                    "language": "SystemVerilog",
+                    "last_commit": "2026-08-19T07:17:17Z",
+                    "owner": "pulp-platform",
+                    "repo": "axi",
+                    "stars": 1662
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AXI Bus Functional Model tvip-axi",
+                  "description": "Functional model for AXI bus.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 149885780,
+                    "language": "SystemVerilog",
+                    "last_commit": "2024-06-28T07:50:07Z",
+                    "owner": "taichi-ishitani",
+                    "repo": "tvip-axi",
+                    "stars": 472
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RISC-V-TLM",
+                  "description": "A SystemC transaction level model of RISC-V.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148187358,
+                    "language": "C",
+                    "last_commit": "2026-02-20T15:37:47Z",
+                    "owner": "mariusmm",
+                    "repo": "RISC-V-TLM",
+                    "stars": 360
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "uvm_axi",
+                  "description": "AXI bus verification IP.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10845651,
+                    "language": "Verilog",
+                    "last_commit": "2013-06-23T08:03:15Z",
+                    "owner": "funningboy",
+                    "repo": "uvm_axi",
+                    "stars": 274
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AXI Bus Formal VIP",
+                  "description": "Formal verification IP for AXI bus.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 325205132,
+                    "language": "SystemVerilog",
+                    "last_commit": "2022-05-24T15:35:48Z",
+                    "owner": "kumarrishav14",
+                    "repo": "AXI",
+                    "stars": 184
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cocotb Verification IPs",
+                  "description": "Various cocotb packages for common interfaces: AXI/Ethernet/PCIE.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 744198784,
+                    "language": "Python",
+                    "last_commit": "2026-08-14T07:53:02Z",
+                    "owner": "themperek",
+                    "repo": "cocotb-vivado",
+                    "stars": 75
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "APB Bus Functional Model tvip-apb",
+                  "description": "Functional model for APB bus.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91000011,
+                    "language": "SystemVerilog",
+                    "last_commit": "2023-11-07T12:58:53Z",
+                    "owner": "taichi-ishitani",
+                    "repo": "tvip-apb",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "USB 1.1 Test Suite",
+                  "description": "Test suite for USB 1.1.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 208857809,
+                    "language": "Python",
+                    "last_commit": "2021-04-08T14:42:26Z",
+                    "owner": "antmicro",
+                    "repo": "usb-test-suite-testbenches",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Components / VIPs"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
         }
       ],
-      "title": "Formal Verification"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Hardware Verification"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ABC",
-          "description": "ABC: System for Sequential Logic Synthesis and Formal Verification. ABC notably provides combinational equivalence checking (CEC) and sequential equivalence checking (SEQ) engines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T06:21:07Z",
-            "owner": "berkeley-abc",
-            "repo": "abc",
-            "stars": 1213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "riscv-formal",
-          "description": "A re-usable formal verification framework for RISC-V CPU designs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Verilog",
-            "last_commit": "2022-04-06T01:24:21Z",
-            "owner": "SymbioticEDA",
-            "repo": "riscv-formal",
-            "stars": 633
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCY",
-          "description": "MCY is a new tool to help digital designers and project managers understand and improve testbench coverage. Given a self checking testbench, mcy generates 1000s of mutations by modifying individual signals in a post synthesis netlist. These mutations are then filtered using Formal Verification techniques, keeping only those that can cause an important change in the design's output. All mutated designs are run against the testbench to check that the testbench will detect and fail for a relevant mutation. The testbench can then be improved to get 100% complete coverage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-05T07:28:07Z",
-            "owner": "YosysHQ",
-            "repo": "mcy",
-            "stars": 97
-          }
-        }
-      ],
-      "title": "Formal Verification"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "riscv-dv",
-          "description": "Instruction sequence generator for RISC-V.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-03T15:17:27Z",
-            "owner": "chipsalliance",
-            "repo": "riscv-dv",
-            "stars": 1344
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rggen",
-          "description": "Code generation tool for configuration and status registers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-16T03:07:59Z",
-            "owner": "rggen",
-            "repo": "rggen",
-            "stars": 467
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FORCE-RISCV",
-          "description": "Instruction sequence generator for RISC-V.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-10-17T10:28:18Z",
-            "owner": "openhwgroup",
-            "repo": "force-riscv",
-            "stars": 312
-          }
-        }
-      ],
-      "title": "Test / Program / Code Generators"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "sv-parser",
-          "description": "SystemVerilog parser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-10T01:05:59Z",
-            "owner": "dalance",
-            "repo": "sv-parser",
-            "stars": 481
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Surelog",
-          "description": "SystemVerilog pre-processor and parser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-16T02:48:18Z",
-            "owner": "chipsalliance",
-            "repo": "Surelog",
-            "stars": 472
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "svlint",
-          "description": "Linter for SystemVerilog.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-11-06T20:01:47Z",
-            "owner": "dalance",
-            "repo": "svlint",
-            "stars": 388
-          }
-        }
-      ],
-      "title": "Linting and Parsing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "UVVM",
-          "description": "Universal VHDL Verification Methodology.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VHDL",
-            "last_commit": "2026-04-22T12:02:19Z",
-            "owner": "UVVM",
-            "repo": "UVVM",
-            "stars": 458
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chiselverify",
-          "description": "UVM-like verification for the Chisel HDL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2024-11-09T16:18:23Z",
-            "owner": "chiselverify",
-            "repo": "chiselverify",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fvutils/pyvsc",
-          "description": "Python packages providing a library for verification stimulus and coverage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-05T21:24:16Z",
-            "owner": "fvutils",
-            "repo": "pyvsc",
-            "stars": 148
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ROHD Verification Framework",
-          "description": "Hardware verification framework upon ROHD for building and executing testbenches.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-07-13T17:56:17Z",
-            "owner": "intel",
-            "repo": "rohd-vf",
-            "stars": 48
-          }
-        }
-      ],
-      "title": "Testbench Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AXI SystemVerilog Modules and Verification Infrastructure",
-          "description": "SystemVerilog modules and verification infrastructure for AXI bus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SystemVerilog",
-            "last_commit": "2026-08-05T08:35:03Z",
-            "owner": "pulp-platform",
-            "repo": "axi",
-            "stars": 1659
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AXI Bus Functional Model tvip-axi",
-          "description": "Functional model for AXI bus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SystemVerilog",
-            "last_commit": "2024-06-28T07:50:07Z",
-            "owner": "taichi-ishitani",
-            "repo": "tvip-axi",
-            "stars": 472
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RISC-V-TLM",
-          "description": "A SystemC transaction level model of RISC-V.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-20T15:37:47Z",
-            "owner": "mariusmm",
-            "repo": "RISC-V-TLM",
-            "stars": 360
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uvm_axi",
-          "description": "AXI bus verification IP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Verilog",
-            "last_commit": "2013-06-23T08:03:15Z",
-            "owner": "funningboy",
-            "repo": "uvm_axi",
-            "stars": 274
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AXI Bus Formal VIP",
-          "description": "Formal verification IP for AXI bus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SystemVerilog",
-            "last_commit": "2022-05-24T15:35:48Z",
-            "owner": "kumarrishav14",
-            "repo": "AXI",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cocotb Verification IPs",
-          "description": "Various cocotb packages for common interfaces: AXI/Ethernet/PCIE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T07:53:02Z",
-            "owner": "themperek",
-            "repo": "cocotb-vivado",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "APB Bus Functional Model tvip-apb",
-          "description": "Functional model for APB bus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SystemVerilog",
-            "last_commit": "2023-11-07T12:58:53Z",
-            "owner": "taichi-ishitani",
-            "repo": "tvip-apb",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "USB 1.1 Test Suite",
-          "description": "Test suite for USB 1.1.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-08T14:42:26Z",
-            "owner": "antmicro",
-            "repo": "usb-test-suite-testbenches",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Components / VIPs"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:06:59.191Z",
+    "last_updated": "2026-08-19T12:31:57.940Z",
     "original_repository": "ElNiak/awesome-formal-verification",
+    "original_repository_id": 839693837,
     "original_repository_sha": "d8b5e314d1c894d1c6fb1490691513cc66a6fb8e",
     "enhanced_repository": "enhansome/enhansome-formal-verification",
     "enhanced_repository_description": null,
