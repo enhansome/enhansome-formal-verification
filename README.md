@@ -25,7 +25,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Formal Verification
 
 * [ivy](https://github.com/microsoft/ivy) ⚠️ Archived - IVy is a research tool/language intended to allow interactive development of protocols and their proofs of correctness and to provide a platform for developing and experimenting with automated proof techniques.
-* [Verity](https://github.com/th0rgal/verity) ⭐ 144 | 🐛 24 | 🌐 Lean | 📅 2026-08-19 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
+* [Verity](https://github.com/th0rgal/verity) ⭐ 144 | 🐛 24 | 🌐 Lean | 📅 2026-08-20 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
 * [Panther](https://github.com/ElNiak/PANTHER) ⭐ 42 | 🐛 21 | 🌐 Python | 📅 2026-08-03 - This tool presents a novel approach to bolstering network protocol verification by integrating the Shadow network simulator with the Ivy formal verification tool to check time properties. Furthermore, it extends Ivy's capabilities with a dedicated time module, enabling the verification of complex quantitative-time properties.
 * [ProofOS](https://github.com/Aevion-ai/ProofOS) ⭐ 0 | 🐛 49 | 🌐 Python | 📅 2026-08-09 - Receipt-chained proof obligation ledger for Lean 4. Publishes a machine-readable open-obligation surface (Godel register) with SHA-256 canonical receipts and a multi-agent counsel colony for adversarial review.
 * [Uppaal](https://uppaal.org/) - Uppaal is an integrated tool environment for modeling, validation and verification of real-time systems modeled as networks of timed automata, extended with data types (bounded integers, arrays, etc.).
@@ -85,7 +85,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Simulation
 
 * [Verilator](https://www.veripool.org/projects/verilator/wiki/Intro) - Verilator is  "the fastest free Verilog HDL simulator". From a verification perspective it supports *line coverage*, *signal toggle coverage* and limited specification of *functional coverage* using SystemVerilog Assertions. It also allows one to write testbenches in C++ or SystemC.
-* [Icarus Verilog](https://github.com/steveicarus/iverilog) ⭐ 3,597 | 🐛 189 | 🌐 C++ | 📅 2026-08-17 - The excellent Icarus Verilog simulator. Slower than Verilator, but it supports full 4-state simulation (i.e. X's and Z's).
+* [Icarus Verilog](https://github.com/steveicarus/iverilog) ⭐ 3,598 | 🐛 189 | 🌐 C++ | 📅 2026-08-17 - The excellent Icarus Verilog simulator. Slower than Verilator, but it supports full 4-state simulation (i.e. X's and Z's).
 
 #### Build Systems and Continuous Integration
 
@@ -106,7 +106,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Linting and Parsing
 
 * [sv-parser](https://github.com/dalance/sv-parser) ⭐ 481 | 🐛 40 | 🌐 Rust | 📅 2026-06-10 - SystemVerilog parser.
-* [Surelog](https://github.com/chipsalliance/Surelog) ⭐ 472 | 🐛 47 | 🌐 C++ | 📅 2026-08-16 - SystemVerilog pre-processor and parser.
+* [Surelog](https://github.com/chipsalliance/Surelog) ⭐ 472 | 🐛 47 | 🌐 C++ | 📅 2026-08-20 - SystemVerilog pre-processor and parser.
 * [svlint](https://github.com/dalance/svlint) ⭐ 388 | 🐛 24 | 🌐 Rust | 📅 2025-11-06 - Linter for SystemVerilog.
 
 #### Testbench Frameworks
@@ -139,7 +139,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
   * [Idris tutorial](http://docs.idris-lang.org/en/latest/tutorial/index.html#tutorial-index)
   * [Theorem proving with Idris tutorial](http://docs.idris-lang.org/en/latest/proofs/index.html)
 * [Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php) - Dependently typed functional programming language.
-  * [Agda GitHub](https://github.com/agda/agda) ⭐ 2,916 | 🐛 1,048 | 🌐 Haskell | 📅 2026-08-19
+  * [Agda GitHub](https://github.com/agda/agda) ⭐ 2,916 | 🐛 1,043 | 🌐 Haskell | 📅 2026-08-19
   * [Agda User Manual](http://agda.readthedocs.io/en/v2.5.2/)
 * [UR/Web](http://www.impredicative.com/ur/) - Ur plus a special standard library for dynamic web applications.
 * [Haskell](https://www.haskell.org/) - An advanced, purely functional programming language.
@@ -206,4 +206,4 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
