@@ -31,7 +31,7 @@
                     "archived": false,
                     "id": 1152936905,
                     "language": "Lean",
-                    "last_commit": "2026-08-20T01:29:44Z",
+                    "last_commit": "2026-08-20T20:53:25Z",
                     "owner": "lfglabs-dev",
                     "repo": "verity",
                     "stars": 144
@@ -61,7 +61,7 @@
                     "archived": false,
                     "id": 1264357299,
                     "language": "Python",
-                    "last_commit": "2026-08-09T15:10:29Z",
+                    "last_commit": "2026-08-20T14:37:46Z",
                     "owner": "Aevion-ai",
                     "repo": "ProofOS",
                     "stars": 0
@@ -166,7 +166,7 @@
                     "last_commit": "2026-08-16T03:07:59Z",
                     "owner": "rggen",
                     "repo": "rggen",
-                    "stars": 467
+                    "stars": 468
                   }
                 },
                 {
@@ -181,7 +181,7 @@
                     "last_commit": "2023-10-17T10:28:18Z",
                     "owner": "openhwgroup",
                     "repo": "force-riscv",
-                    "stars": 312
+                    "stars": 313
                   }
                 }
               ],
@@ -215,7 +215,7 @@
                     "archived": false,
                     "id": 218417034,
                     "language": "C++",
-                    "last_commit": "2026-08-20T01:22:20Z",
+                    "last_commit": "2026-08-20T04:16:46Z",
                     "owner": "chipsalliance",
                     "repo": "Surelog",
                     "stars": 472
@@ -319,10 +319,10 @@
                     "archived": false,
                     "id": 129229399,
                     "language": "SystemVerilog",
-                    "last_commit": "2026-08-19T16:14:50Z",
+                    "last_commit": "2026-08-20T08:39:21Z",
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1662
+                    "stars": 1664
                   }
                 },
                 {
@@ -337,7 +337,7 @@
                     "last_commit": "2024-06-28T07:50:07Z",
                     "owner": "taichi-ishitani",
                     "repo": "tvip-axi",
-                    "stars": 472
+                    "stars": 473
                   }
                 },
                 {
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:06:16.768Z",
+    "last_updated": "2026-08-21T02:12:08.782Z",
     "original_repository": "ElNiak/awesome-formal-verification",
     "original_repository_id": 839693837,
     "original_repository_sha": "d8b5e314d1c894d1c6fb1490691513cc66a6fb8e",
