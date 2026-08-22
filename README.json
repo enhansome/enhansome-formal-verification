@@ -31,10 +31,10 @@
                     "archived": false,
                     "id": 1152936905,
                     "language": "Lean",
-                    "last_commit": "2026-08-20T20:53:25Z",
+                    "last_commit": "2026-08-21T20:41:10Z",
                     "owner": "lfglabs-dev",
                     "repo": "verity",
-                    "stars": 144
+                    "stars": 145
                   }
                 },
                 {
@@ -61,7 +61,7 @@
                     "archived": false,
                     "id": 1264357299,
                     "language": "Python",
-                    "last_commit": "2026-08-20T14:37:46Z",
+                    "last_commit": "2026-08-21T14:09:44Z",
                     "owner": "Aevion-ai",
                     "repo": "ProofOS",
                     "stars": 0
@@ -151,7 +151,7 @@
                     "last_commit": "2026-04-03T15:17:27Z",
                     "owner": "chipsalliance",
                     "repo": "riscv-dv",
-                    "stars": 1344
+                    "stars": 1345
                   }
                 },
                 {
@@ -319,7 +319,7 @@
                     "archived": false,
                     "id": 129229399,
                     "language": "SystemVerilog",
-                    "last_commit": "2026-08-20T08:39:21Z",
+                    "last_commit": "2026-08-21T09:05:20Z",
                     "owner": "pulp-platform",
                     "repo": "axi",
                     "stars": 1664
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:12:08.782Z",
+    "last_updated": "2026-08-22T02:04:26.100Z",
     "original_repository": "ElNiak/awesome-formal-verification",
     "original_repository_id": 839693837,
     "original_repository_sha": "d8b5e314d1c894d1c6fb1490691513cc66a6fb8e",
