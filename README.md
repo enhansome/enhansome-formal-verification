@@ -25,9 +25,9 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Formal Verification
 
 * [ivy](https://github.com/microsoft/ivy) ⚠️ Archived - IVy is a research tool/language intended to allow interactive development of protocols and their proofs of correctness and to provide a platform for developing and experimenting with automated proof techniques.
-* [Verity](https://github.com/th0rgal/verity) ⭐ 145 | 🐛 24 | 🌐 Lean | 📅 2026-08-23 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
+* [Verity](https://github.com/th0rgal/verity) ⭐ 145 | 🐛 23 | 🌐 Lean | 📅 2026-08-24 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
 * [Panther](https://github.com/ElNiak/PANTHER) ⭐ 42 | 🐛 21 | 🌐 Python | 📅 2026-08-03 - This tool presents a novel approach to bolstering network protocol verification by integrating the Shadow network simulator with the Ivy formal verification tool to check time properties. Furthermore, it extends Ivy's capabilities with a dedicated time module, enabling the verification of complex quantitative-time properties.
-* [ProofOS](https://github.com/Aevion-ai/ProofOS) ⭐ 0 | 🐛 56 | 🌐 Python | 📅 2026-08-23 - Receipt-chained proof obligation ledger for Lean 4. Publishes a machine-readable open-obligation surface (Godel register) with SHA-256 canonical receipts and a multi-agent counsel colony for adversarial review.
+* [ProofOS](https://github.com/Aevion-ai/ProofOS) ⭐ 0 | 🐛 57 | 🌐 Python | 📅 2026-08-24 - Receipt-chained proof obligation ledger for Lean 4. Publishes a machine-readable open-obligation surface (Godel register) with SHA-256 canonical receipts and a multi-agent counsel colony for adversarial review.
 * [Uppaal](https://uppaal.org/) - Uppaal is an integrated tool environment for modeling, validation and verification of real-time systems modeled as networks of timed automata, extended with data types (bounded integers, arrays, etc.).
 * [BLAST](https://cseweb.ucsd.edu/~rjhala/blast.html) - BLAST is a software model checker for C programs. The goal of BLAST is to be able to check that software satisfies behavioral properties of the interfaces it uses. Blast uses counterexample-driven automatic abstraction refinement to construct an abstract model which is model checked for safety properties. The abstraction is constructed /on-the-fly/, and only to the /required precision/. The BLAST project is supported by the National Science Foundation .
 * [PRISM](https://www.prismmodelchecker.org/) -  PRISM is a probabilistic model checker, a tool for formal modelling and analysis of systems that exhibit random or probabilistic behaviour. It has been used to analyse systems from many different application domains, including communication and multimedia protocols, randomised distributed algorithms, security protocols, biological systems and many others.
@@ -84,13 +84,13 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 #### Simulation
 
+* [Icarus Verilog](https://github.com/steveicarus/iverilog) ⭐ 3,605 | 🐛 188 | 🌐 C++ | 📅 2026-08-23 - The excellent Icarus Verilog simulator. Slower than Verilator, but it supports full 4-state simulation (i.e. X's and Z's).
 * [Verilator](https://www.veripool.org/projects/verilator/wiki/Intro) - Verilator is  "the fastest free Verilog HDL simulator". From a verification perspective it supports *line coverage*, *signal toggle coverage* and limited specification of *functional coverage* using SystemVerilog Assertions. It also allows one to write testbenches in C++ or SystemC.
-* [Icarus Verilog](https://github.com/steveicarus/iverilog) ⭐ 3,606 | 🐛 188 | 🌐 C++ | 📅 2026-08-23 - The excellent Icarus Verilog simulator. Slower than Verilator, but it supports full 4-state simulation (i.e. X's and Z's).
 
 #### Build Systems and Continuous Integration
 
+* [FuseSoc](https://github.com/olofk/fusesoc) ⭐ 1,453 | 🐛 153 | 🌐 Python | 📅 2026-08-24 - FuseSoC is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code. Its main purpose is to increase reuse of IP (Intellectual Property) cores and be an aid for creating, building and simulating SoC solutions.
 * [LibreCores CI](https://www.librecores.org/static/librecores-ci) - LibreCores CI is a service, which provides Continuous Integration of projects being hosted on LibreCores. The objective of the service is to improve the contributor experience and to increase trust to projects by providing automated testing and health metrics of the projects.
-* [FuseSoc](https://github.com/olofk/fusesoc) ⭐ 1,453 | 🐛 154 | 🌐 Python | 📅 2026-08-21 - FuseSoC is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code. Its main purpose is to increase reuse of IP (Intellectual Property) cores and be an aid for creating, building and simulating SoC solutions.
 
 #### Test / Program / Code Generators
 
@@ -106,12 +106,12 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Linting and Parsing
 
 * [sv-parser](https://github.com/dalance/sv-parser) ⭐ 481 | 🐛 40 | 🌐 Rust | 📅 2026-06-10 - SystemVerilog parser.
-* [Surelog](https://github.com/chipsalliance/Surelog) ⭐ 472 | 🐛 47 | 🌐 C++ | 📅 2026-08-23 - SystemVerilog pre-processor and parser.
+* [Surelog](https://github.com/chipsalliance/Surelog) ⭐ 472 | 🐛 47 | 🌐 C++ | 📅 2026-08-24 - SystemVerilog pre-processor and parser.
 * [svlint](https://github.com/dalance/svlint) ⭐ 389 | 🐛 24 | 🌐 Rust | 📅 2025-11-06 - Linter for SystemVerilog.
 
 #### Testbench Frameworks
 
-* [UVVM](https://github.com/UVVM/UVVM) ⭐ 460 | 🐛 24 | 🌐 VHDL | 📅 2026-04-22 - Universal VHDL Verification Methodology.
+* [UVVM](https://github.com/UVVM/UVVM) ⭐ 461 | 🐛 24 | 🌐 VHDL | 📅 2026-04-22 - Universal VHDL Verification Methodology.
 * [chiselverify](https://github.com/chiselverify/chiselverify) ⭐ 163 | 🐛 8 | 🌐 Scala | 📅 2024-11-09 - UVM-like verification for the Chisel HDL.
 * [fvutils/pyvsc](https://github.com/fvutils/pyvsc) ⭐ 148 | 🐛 52 | 🌐 Python | 📅 2026-07-05 - Python packages providing a library for verification stimulus and coverage.
 * [ROHD Verification Framework](https://github.com/intel/rohd-vf) ⭐ 48 | 🐛 5 | 🌐 Dart | 📅 2026-07-13 - Hardware verification framework upon ROHD for building and executing testbenches.

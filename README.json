@@ -31,7 +31,7 @@
                     "archived": false,
                     "id": 1152936905,
                     "language": "Lean",
-                    "last_commit": "2026-08-23T04:52:18Z",
+                    "last_commit": "2026-08-24T13:26:31Z",
                     "owner": "lfglabs-dev",
                     "repo": "verity",
                     "stars": 145
@@ -61,7 +61,7 @@
                     "archived": false,
                     "id": 1264357299,
                     "language": "Python",
-                    "last_commit": "2026-08-23T14:19:24Z",
+                    "last_commit": "2026-08-24T14:34:27Z",
                     "owner": "Aevion-ai",
                     "repo": "ProofOS",
                     "stars": 0
@@ -71,6 +71,28 @@
               "description": null,
               "node_type": "group",
               "title": "Formal Verification"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ivy-syntax-highlight",
+                  "description": "Bare minimum syntax highlight definitions (most likely incomplete) for the Ivy language.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 437731912,
+                    "language": null,
+                    "last_commit": "2024-08-21T00:09:07Z",
+                    "owner": "Consensys",
+                    "repo": "ivy-syntax-highlight",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Linting and Parsing"
             }
           ],
           "description": null,
@@ -141,6 +163,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Icarus Verilog",
+                  "description": "The excellent Icarus Verilog simulator. Slower than Verilator, but it supports full 4-state simulation (i.e. X's and Z's).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16267,
+                    "language": "C++",
+                    "last_commit": "2026-08-23T21:30:59Z",
+                    "owner": "steveicarus",
+                    "repo": "iverilog",
+                    "stars": 3605
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Simulation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FuseSoc",
+                  "description": "FuseSoC is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code. Its main purpose is to increase reuse of IP (Intellectual Property) cores and be an aid for creating, building and simulating SoC solutions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16964283,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T12:37:32Z",
+                    "owner": "olofk",
+                    "repo": "fusesoc",
+                    "stars": 1453
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Build Systems and Continuous Integration"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "riscv-dv",
                   "description": "Instruction sequence generator for RISC-V.",
                   "children": [],
@@ -193,6 +259,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "covered",
+                  "description": "Coverage analysis tool.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 108611886,
+                    "language": "C",
+                    "last_commit": "2017-10-28T02:23:12Z",
+                    "owner": "anders-code",
+                    "repo": "verilog-covered",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Coverage"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "sv-parser",
                   "description": "SystemVerilog parser.",
                   "children": [],
@@ -215,7 +303,7 @@
                     "archived": false,
                     "id": 218417034,
                     "language": "C++",
-                    "last_commit": "2026-08-23T05:39:37Z",
+                    "last_commit": "2026-08-24T04:12:36Z",
                     "owner": "chipsalliance",
                     "repo": "Surelog",
                     "stars": 472
@@ -255,7 +343,7 @@
                     "last_commit": "2026-04-22T12:02:19Z",
                     "owner": "UVVM",
                     "repo": "UVVM",
-                    "stars": 460
+                    "stars": 461
                   }
                 },
                 {
@@ -439,13 +527,42 @@
           "description": null,
           "node_type": "group",
           "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Agda",
+              "description": "Dependently typed functional programming language.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Agda GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40411471,
+                    "language": "Haskell",
+                    "last_commit": "2026-08-23T16:22:22Z",
+                    "owner": "agda",
+                    "repo": "agda",
+                    "stars": 2917
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Languages"
         }
       ],
       "title": "Hardware Verification"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:11:28.414Z",
+    "last_updated": "2026-08-24T14:34:33.752Z",
     "original_repository": "ElNiak/awesome-formal-verification",
     "original_repository_id": 839693837,
     "original_repository_sha": "d8b5e314d1c894d1c6fb1490691513cc66a6fb8e",
