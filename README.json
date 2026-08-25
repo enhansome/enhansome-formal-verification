@@ -455,7 +455,7 @@
                     "last_commit": "2013-06-23T08:03:15Z",
                     "owner": "funningboy",
                     "repo": "uvm_axi",
-                    "stars": 274
+                    "stars": 273
                   }
                 },
                 {
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:07:49.112Z",
+    "last_updated": "2026-08-25T06:28:15.499Z",
     "original_repository": "ElNiak/awesome-formal-verification",
     "original_repository_id": 839693837,
     "original_repository_sha": "d8b5e314d1c894d1c6fb1490691513cc66a6fb8e",

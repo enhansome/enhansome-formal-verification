@@ -126,7 +126,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 * [AXI SystemVerilog Modules and Verification Infrastructure](https://github.com/pulp-platform/axi) ⭐ 1,665 | 🐛 73 | 🌐 SystemVerilog | 📅 2026-08-21 - SystemVerilog modules and verification infrastructure for AXI bus.
 * [AXI Bus Functional Model tvip-axi](https://github.com/taichi-ishitani/tvip-axi) ⭐ 473 | 🐛 8 | 🌐 SystemVerilog | 📅 2024-06-28 - Functional model for AXI bus.
 * [RISC-V-TLM](https://github.com/mariusmm/RISC-V-TLM) ⭐ 360 | 🐛 6 | 🌐 C | 📅 2026-02-20 - A SystemC transaction level model of RISC-V.
-* [uvm\_axi](https://github.com/funningboy/uvm_axi) ⭐ 274 | 🐛 4 | 🌐 Verilog | 📅 2013-06-23 - AXI bus verification IP.
+* [uvm\_axi](https://github.com/funningboy/uvm_axi) ⭐ 273 | 🐛 4 | 🌐 Verilog | 📅 2013-06-23 - AXI bus verification IP.
 * [AXI Bus Formal VIP](https://github.com/kumarrishav14/AXI) ⭐ 184 | 🐛 5 | 🌐 SystemVerilog | 📅 2022-05-24 - Formal verification IP for AXI bus.
 * [Cocotb Verification IPs](https://github.com/themperek/cocotb-vivado) ⭐ 75 | 🐛 6 | 🌐 Python | 📅 2026-08-14 - Various cocotb packages for common interfaces: AXI/Ethernet/PCIE.
 * [APB Bus Functional Model tvip-apb](https://github.com/taichi-ishitani/tvip-apb) ⭐ 35 | 🐛 1 | 🌐 SystemVerilog | 📅 2023-11-07 - Functional model for APB bus.
