@@ -31,7 +31,7 @@
                     "archived": false,
                     "id": 1152936905,
                     "language": "Lean",
-                    "last_commit": "2026-08-25T01:17:19Z",
+                    "last_commit": "2026-08-25T09:39:40Z",
                     "owner": "lfglabs-dev",
                     "repo": "verity",
                     "stars": 145
@@ -61,7 +61,7 @@
                     "archived": false,
                     "id": 1264357299,
                     "language": "Python",
-                    "last_commit": "2026-08-24T14:46:00Z",
+                    "last_commit": "2026-08-25T14:37:44Z",
                     "owner": "Aevion-ai",
                     "repo": "ProofOS",
                     "stars": 0
@@ -121,7 +121,7 @@
                     "last_commit": "2026-08-25T00:50:33Z",
                     "owner": "berkeley-abc",
                     "repo": "abc",
-                    "stars": 1214
+                    "stars": 1215
                   }
                 },
                 {
@@ -303,7 +303,7 @@
                     "archived": false,
                     "id": 218417034,
                     "language": "C++",
-                    "last_commit": "2026-08-25T01:32:13Z",
+                    "last_commit": "2026-08-26T01:09:01Z",
                     "owner": "chipsalliance",
                     "repo": "Surelog",
                     "stars": 472
@@ -407,10 +407,10 @@
                     "archived": false,
                     "id": 129229399,
                     "language": "SystemVerilog",
-                    "last_commit": "2026-08-21T09:05:20Z",
+                    "last_commit": "2026-08-25T12:23:33Z",
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1665
+                    "stars": 1666
                   }
                 },
                 {
@@ -544,7 +544,7 @@
                     "archived": false,
                     "id": 40411471,
                     "language": "Haskell",
-                    "last_commit": "2026-08-24T19:57:26Z",
+                    "last_commit": "2026-08-25T11:36:18Z",
                     "owner": "agda",
                     "repo": "agda",
                     "stars": 2917
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:15.499Z",
+    "last_updated": "2026-08-26T02:13:15.487Z",
     "original_repository": "ElNiak/awesome-formal-verification",
     "original_repository_id": 839693837,
     "original_repository_sha": "d8b5e314d1c894d1c6fb1490691513cc66a6fb8e",
