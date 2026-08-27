@@ -123,7 +123,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 #### Components / VIPs
 
-* [AXI SystemVerilog Modules and Verification Infrastructure](https://github.com/pulp-platform/axi) ⭐ 1,666 | 🐛 74 | 🌐 SystemVerilog | 📅 2026-08-26 - SystemVerilog modules and verification infrastructure for AXI bus.
+* [AXI SystemVerilog Modules and Verification Infrastructure](https://github.com/pulp-platform/axi) ⭐ 1,666 | 🐛 74 | 🌐 SystemVerilog | 📅 2026-08-27 - SystemVerilog modules and verification infrastructure for AXI bus.
 * [AXI Bus Functional Model tvip-axi](https://github.com/taichi-ishitani/tvip-axi) ⭐ 474 | 🐛 8 | 🌐 SystemVerilog | 📅 2024-06-28 - Functional model for AXI bus.
 * [RISC-V-TLM](https://github.com/mariusmm/RISC-V-TLM) ⭐ 360 | 🐛 6 | 🌐 C | 📅 2026-02-20 - A SystemC transaction level model of RISC-V.
 * [uvm\_axi](https://github.com/funningboy/uvm_axi) ⭐ 273 | 🐛 4 | 🌐 Verilog | 📅 2013-06-23 - AXI bus verification IP.
@@ -139,7 +139,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
   * [Idris tutorial](http://docs.idris-lang.org/en/latest/tutorial/index.html#tutorial-index)
   * [Theorem proving with Idris tutorial](http://docs.idris-lang.org/en/latest/proofs/index.html)
 * [Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php) - Dependently typed functional programming language.
-  * [Agda GitHub](https://github.com/agda/agda) ⭐ 2,921 | 🐛 1,033 | 🌐 Haskell | 📅 2026-08-27
+  * [Agda GitHub](https://github.com/agda/agda) ⭐ 2,921 | 🐛 1,034 | 🌐 Haskell | 📅 2026-08-27
   * [Agda User Manual](http://agda.readthedocs.io/en/v2.5.2/)
 * [UR/Web](http://www.impredicative.com/ur/) - Ur plus a special standard library for dynamic web applications.
 * [Haskell](https://www.haskell.org/) - An advanced, purely functional programming language.

@@ -407,7 +407,7 @@
                     "archived": false,
                     "id": 129229399,
                     "language": "SystemVerilog",
-                    "last_commit": "2026-08-26T18:37:59Z",
+                    "last_commit": "2026-08-27T11:21:23Z",
                     "owner": "pulp-platform",
                     "repo": "axi",
                     "stars": 1666
@@ -544,7 +544,7 @@
                     "archived": false,
                     "id": 40411471,
                     "language": "Haskell",
-                    "last_commit": "2026-08-27T09:39:33Z",
+                    "last_commit": "2026-08-27T11:17:16Z",
                     "owner": "agda",
                     "repo": "agda",
                     "stars": 2921
@@ -562,9 +562,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:30:51.889Z",
-    "original_repository": "ElNiak/awesome-formal-verification",
-    "original_repository_id": 839693837,
+    "last_updated": "2026-08-27T11:38:23.538Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 839693837,
+      "language": null,
+      "last_commit": "2026-06-27T14:35:56Z",
+      "owner": "ElNiak",
+      "repo": "awesome-formal-verification",
+      "stars": 168
+    },
     "original_repository_sha": "d8b5e314d1c894d1c6fb1490691513cc66a6fb8e",
     "enhanced_repository": "enhansome/enhansome-formal-verification",
     "enhanced_repository_description": null,
