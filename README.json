@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "IVy is a research tool intended to allow interactive development of protocols and their proofs of correctness and to provide a platform for developing and experimenting with automated proof techniques. In particular, IVy provides interactive visualization of automated proofs, and supports a use model in which the human protocol designer and the automated tool interact to expose errors and prove correctness.",
+                    "homepage": null,
                     "id": 48673189,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-01-06T13:06:17Z",
+                    "open_issues": 40,
                     "owner": "microsoft",
                     "repo": "ivy",
-                    "stars": 239
+                    "stars": 239,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Formally verified smart contracts gives mathematical certainty across all inputs and execution paths. We bet that agents will make full formal verification practical.",
+                    "homepage": "https://veritylang.com",
                     "id": 1152936905,
                     "language": "Lean",
-                    "last_commit": "2026-08-27T16:17:17Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T01:37:14Z",
+                    "open_issues": 24,
                     "owner": "lfglabs-dev",
                     "repo": "verity",
-                    "stars": 145
+                    "stars": 145,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -46,12 +56,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This tool presents a novel approach to bolstering network protocol verification by integrating the Shadow network simulator with the Ivy formal verification tool to check time properties. Furthermore, it extends Ivy’s capabilities with a dedicated time module, enabling the verification of complex quantitative-time properties.",
+                    "homepage": "https://elniak.github.io/PANTHER/",
                     "id": 426255598,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-03T13:49:39Z",
+                    "open_issues": 21,
                     "owner": "ElNiak",
                     "repo": "PANTHER",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": [
+                      "cve",
+                      "cybersecurity",
+                      "docker",
+                      "docker-compose",
+                      "formal-methods",
+                      "formal-verification",
+                      "ivy",
+                      "network-analysis",
+                      "network-security",
+                      "network-simulator",
+                      "protocol",
+                      "protocol-tester",
+                      "quic",
+                      "reproducible-research",
+                      "test-automation",
+                      "testing",
+                      "testing-tools",
+                      "tests",
+                      "time-proof",
+                      "transport-layer-protocol"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -62,12 +98,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Governed public mirror of Aevion-Verifiable-AI. Constitutional halt gate, receipt chain, ModelAccessEnvelope.",
+                    "homepage": "https://aevion.ai",
                     "id": 1264357299,
                     "language": "Python",
-                    "last_commit": "2026-08-27T20:36:02Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T14:54:47Z",
+                    "open_issues": 68,
                     "owner": "Aevion-ai",
                     "repo": "ProofOS",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "ai-governance",
+                      "ai-safety",
+                      "byzantine-fault-tolerance",
+                      "cryptographic-receipts",
+                      "formal-verification",
+                      "lean4",
+                      "proof-assistant"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 }
@@ -85,12 +134,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 437731912,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-21T00:09:07Z",
+                    "open_issues": 1,
                     "owner": "Consensys",
                     "repo": "ivy-syntax-highlight",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 }
@@ -121,12 +175,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ABC: System for Sequential Logic Synthesis and Formal Verification",
+                    "homepage": null,
                     "id": 124750053,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T00:50:33Z",
+                    "open_issues": 229,
                     "owner": "berkeley-abc",
                     "repo": "abc",
-                    "stars": 1216
+                    "stars": 1216,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -137,12 +196,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RISC-V Formal Verification Framework",
+                    "homepage": null,
                     "id": 74998636,
                     "language": "Verilog",
+                    "license": "ISC",
                     "last_commit": "2022-04-06T01:24:21Z",
+                    "open_issues": 23,
                     "owner": "SymbioticEDA",
                     "repo": "riscv-formal",
-                    "stars": 634
+                    "stars": 634,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -153,12 +217,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mutation Cover with Yosys (MCY)",
+                    "homepage": null,
                     "id": 185404842,
                     "language": "C++",
+                    "license": "ISC",
                     "last_commit": "2026-08-05T07:28:07Z",
+                    "open_issues": 2,
                     "owner": "YosysHQ",
                     "repo": "mcy",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 }
@@ -176,12 +245,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Icarus Verilog",
+                    "homepage": "https://steveicarus.github.io/iverilog/",
                     "id": 16267,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-23T21:30:59Z",
+                    "open_issues": 188,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3612
+                    "stars": 3612,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 }
@@ -199,12 +273,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Package manager and build abstraction tool for FPGA/ASIC development",
+                    "homepage": null,
                     "id": 16964283,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-08-24T12:37:32Z",
+                    "open_issues": 153,
                     "owner": "olofk",
                     "repo": "fusesoc",
-                    "stars": 1453
+                    "stars": 1453,
+                    "topics": [
+                      "eda",
+                      "fpga",
+                      "package-manager",
+                      "python",
+                      "reuse",
+                      "verilog",
+                      "vhdl"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 }
@@ -222,12 +309,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Random instruction generator for RISC-V processor verification",
+                    "homepage": null,
                     "id": 167140400,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-03T15:17:27Z",
+                    "open_issues": 166,
                     "owner": "chipsalliance",
                     "repo": "riscv-dv",
-                    "stars": 1350
+                    "stars": 1350,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -238,12 +330,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code generation tool for control and status registers",
+                    "homepage": "https://rggen.github.io/rggen-webui/",
                     "id": 180550709,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-16T03:07:59Z",
+                    "open_issues": 23,
                     "owner": "rggen",
                     "repo": "rggen",
-                    "stars": 468
+                    "stars": 468,
+                    "topics": [
+                      "amba",
+                      "apb",
+                      "asic",
+                      "axi",
+                      "csr",
+                      "eda",
+                      "fpga",
+                      "ral",
+                      "register-descriptions",
+                      "rtl",
+                      "soc",
+                      "systemrdl",
+                      "systemverilog",
+                      "uvm",
+                      "uvm-ral-model",
+                      "uvm-register-model",
+                      "verilog",
+                      "vhdl",
+                      "wiki-documents",
+                      "wishbone-bus"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -254,12 +372,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Instruction Set Generator initially contributed by Futurewei",
+                    "homepage": null,
                     "id": 271641901,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-10-17T10:28:18Z",
+                    "open_issues": 20,
                     "owner": "openhwgroup",
                     "repo": "force-riscv",
-                    "stars": 313
+                    "stars": 313,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 }
@@ -277,12 +400,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "mirror of verilog code coverage tool from http://hg.code.sf.net/p/covered/code and https://github.com/chiphackers/covered",
+                    "homepage": null,
                     "id": 108611886,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2017-10-28T02:23:12Z",
+                    "open_issues": 0,
                     "owner": "anders-code",
                     "repo": "verilog-covered",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 }
@@ -300,12 +428,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SystemVerilog parser library fully compliant with IEEE 1800-2017",
+                    "homepage": null,
                     "id": 195226023,
                     "language": "Rust",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-10T01:05:59Z",
+                    "open_issues": 40,
                     "owner": "dalance",
                     "repo": "sv-parser",
-                    "stars": 481
+                    "stars": 481,
+                    "topics": [
+                      "parser",
+                      "rust",
+                      "rust-crate",
+                      "systemverilog",
+                      "verilog"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -316,12 +455,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST & UHDM APIs. Compiles on Linux gcc, Windows msys2-gcc & msvc, OsX ",
+                    "homepage": null,
                     "id": 218417034,
                     "language": "C++",
-                    "last_commit": "2026-08-27T00:29:57Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T18:33:22Z",
+                    "open_issues": 47,
                     "owner": "chipsalliance",
                     "repo": "Surelog",
-                    "stars": 472
+                    "stars": 472,
+                    "topics": [
+                      "antlr",
+                      "antlr4-grammar",
+                      "elaboration",
+                      "linter",
+                      "parser",
+                      "parser-ast",
+                      "preprocessor",
+                      "python-api",
+                      "systemverilog",
+                      "uvm",
+                      "verilog",
+                      "vpi",
+                      "vpi-api",
+                      "vpi-standard"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -332,12 +491,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SystemVerilog linter",
+                    "homepage": null,
                     "id": 216552919,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2025-11-06T20:01:47Z",
+                    "open_issues": 24,
                     "owner": "dalance",
                     "repo": "svlint",
-                    "stars": 390
+                    "stars": 390,
+                    "topics": [
+                      "lint",
+                      "linter",
+                      "rust",
+                      "systemverilog",
+                      "verilog"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 }
@@ -355,12 +525,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "UVVM (Universal VHDL Verification Methodology) is a free and Open Source Methodology and Library for very efficient VHDL verification of FPGA and ASIC – resulting also in significant quality improvement.    Community forum: https://forum.uvvm.org/    UVVM.org: https://uvvm.org/",
+                    "homepage": "https://uvvm.github.io/",
                     "id": 50093478,
                     "language": "VHDL",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-22T12:02:19Z",
+                    "open_issues": 23,
                     "owner": "UVVM",
                     "repo": "UVVM",
-                    "stars": 462
+                    "stars": 462,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -371,12 +546,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A dynamic verification library for Chisel.",
+                    "homepage": null,
                     "id": 267338934,
                     "language": "Scala",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2024-11-09T16:18:23Z",
+                    "open_issues": 8,
                     "owner": "chiselverify",
                     "repo": "chiselverify",
-                    "stars": 163
+                    "stars": 163,
+                    "topics": [
+                      "bus-functional-model",
+                      "chisel",
+                      "chisel-test",
+                      "constrained-random-verification",
+                      "coverage",
+                      "functional-coverage",
+                      "scala",
+                      "testing",
+                      "timed-assertions",
+                      "verification"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -387,12 +578,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python packages providing a library for Verification Stimulus and Coverage",
+                    "homepage": "https://fvutils.github.io/pyvsc",
                     "id": 198527127,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-05T21:24:16Z",
+                    "open_issues": 52,
                     "owner": "fvutils",
                     "repo": "pyvsc",
-                    "stars": 148
+                    "stars": 148,
+                    "topics": [
+                      "cocotb",
+                      "constrained-random",
+                      "constraints",
+                      "coverage",
+                      "functional-coverage",
+                      "python",
+                      "random-stimulus",
+                      "randomization",
+                      "verification-stimulus"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -403,12 +609,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The ROHD Verification Framework is a hardware verification framework built upon ROHD for building testbenches.",
+                    "homepage": "https://pub.dev/packages/rohd_vf",
                     "id": 426054568,
                     "language": "Dart",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-13T17:56:17Z",
+                    "open_issues": 5,
                     "owner": "intel",
                     "repo": "rohd-vf",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "framework",
+                      "hardware",
+                      "hardware-verification",
+                      "verification"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 }
@@ -426,12 +642,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+                    "homepage": null,
                     "id": 129229399,
                     "language": "SystemVerilog",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T13:28:49Z",
+                    "open_issues": 74,
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1668
+                    "stars": 1668,
+                    "topics": [
+                      "asic",
+                      "axi",
+                      "axi4",
+                      "axi4-lite",
+                      "fpga",
+                      "hardware",
+                      "ip",
+                      "network-on-chip",
+                      "rtl",
+                      "systemverilog"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -442,12 +674,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AMBA AXI VIP",
+                    "homepage": null,
                     "id": 149885780,
                     "language": "SystemVerilog",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-28T07:50:07Z",
+                    "open_issues": 8,
                     "owner": "taichi-ishitani",
                     "repo": "tvip-axi",
-                    "stars": 474
+                    "stars": 474,
+                    "topics": [
+                      "amba",
+                      "amba-axi",
+                      "axi",
+                      "axi4",
+                      "systemverilog",
+                      "uvm",
+                      "vip"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -458,12 +703,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RISC-V SystemC-TLM simulator",
+                    "homepage": null,
                     "id": 148187358,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-20T15:37:47Z",
+                    "open_issues": 6,
                     "owner": "mariusmm",
                     "repo": "RISC-V-TLM",
-                    "stars": 360
+                    "stars": 360,
+                    "topics": [
+                      "risc-v",
+                      "riscv",
+                      "systemc",
+                      "tlm2"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -474,12 +729,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "uvm AXI BFM(bus functional model)",
+                    "homepage": null,
                     "id": 10845651,
                     "language": "Verilog",
+                    "license": null,
                     "last_commit": "2013-06-23T08:03:15Z",
+                    "open_issues": 4,
                     "owner": "funningboy",
                     "repo": "uvm_axi",
-                    "stars": 273
+                    "stars": 273,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -490,12 +750,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VIP for AXI Protocol",
+                    "homepage": null,
                     "id": 325205132,
                     "language": "SystemVerilog",
+                    "license": "MIT",
                     "last_commit": "2022-05-24T15:35:48Z",
+                    "open_issues": 5,
                     "owner": "kumarrishav14",
                     "repo": "AXI",
-                    "stars": 185
+                    "stars": 185,
+                    "topics": [
+                      "amba-axi",
+                      "asic-verification",
+                      "design-verification",
+                      "sv",
+                      "uvm"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -506,12 +777,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Limited python / cocotb interface to Xilinx/AMD Vivado simulator.",
+                    "homepage": null,
                     "id": 744198784,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T09:43:11Z",
+                    "open_issues": 5,
                     "owner": "themperek",
                     "repo": "cocotb-vivado",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": [
+                      "cocotb",
+                      "python",
+                      "simulation",
+                      "verification",
+                      "vivado",
+                      "xilinx"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -522,12 +805,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Verification IP for AMBA APB Protocol",
+                    "homepage": null,
                     "id": 91000011,
                     "language": "SystemVerilog",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-11-07T12:58:53Z",
+                    "open_issues": 1,
                     "owner": "taichi-ishitani",
                     "repo": "tvip-apb",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "amba",
+                      "apb",
+                      "systemverilog",
+                      "uvm",
+                      "vip"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 },
@@ -538,12 +832,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 208857809,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-04-08T14:42:26Z",
+                    "open_issues": 8,
                     "owner": "antmicro",
                     "repo": "usb-test-suite-testbenches",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 }
@@ -571,12 +870,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+                    "homepage": "https://wiki.portal.chalmers.se/agda/pmwiki.php",
                     "id": 40411471,
                     "language": "Haskell",
-                    "last_commit": "2026-08-28T11:49:20Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T21:19:56Z",
+                    "open_issues": 1036,
                     "owner": "agda",
                     "repo": "agda",
-                    "stars": 2920
+                    "stars": 2919,
+                    "topics": [
+                      "agda",
+                      "dependent-types",
+                      "programming-language",
+                      "proof-assistant",
+                      "type-theory"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
                 }
@@ -592,15 +902,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:13:38.369Z",
+    "last_updated": "2026-08-29T04:57:12.041Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
+      "homepage": null,
       "id": 839693837,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-27T14:35:56Z",
+      "open_issues": 0,
       "owner": "ElNiak",
       "repo": "awesome-formal-verification",
-      "stars": 168
+      "stars": 170,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-resources",
+        "formal-languages",
+        "formal-methods",
+        "formal-specification",
+        "formal-verification",
+        "hardware-verification",
+        "model",
+        "model-checking",
+        "network-verification",
+        "proof-assistant",
+        "testing",
+        "tools",
+        "verification"
+      ]
     },
     "original_repository_sha": "d8b5e314d1c894d1c6fb1490691513cc66a6fb8e",
     "enhanced_repository": "enhansome/enhansome-formal-verification",
