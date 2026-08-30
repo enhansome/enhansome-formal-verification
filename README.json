@@ -40,7 +40,7 @@
                     "id": 1152936905,
                     "language": "Lean",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T06:42:42Z",
+                    "last_commit": "2026-08-29T18:41:24Z",
                     "open_issues": 24,
                     "owner": "lfglabs-dev",
                     "repo": "verity",
@@ -103,8 +103,8 @@
                     "id": 1264357299,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T14:54:47Z",
-                    "open_issues": 68,
+                    "last_commit": "2026-08-29T14:26:31Z",
+                    "open_issues": 70,
                     "owner": "Aevion-ai",
                     "repo": "ProofOS",
                     "stars": 0,
@@ -181,7 +181,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-25T00:50:33Z",
-                    "open_issues": 229,
+                    "open_issues": 230,
                     "owner": "berkeley-abc",
                     "repo": "abc",
                     "stars": 1216,
@@ -254,7 +254,7 @@
                     "open_issues": 188,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3612,
+                    "stars": 3611,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -437,7 +437,7 @@
                     "open_issues": 40,
                     "owner": "dalance",
                     "repo": "sv-parser",
-                    "stars": 481,
+                    "stars": 482,
                     "topics": [
                       "parser",
                       "rust",
@@ -464,7 +464,7 @@
                     "open_issues": 47,
                     "owner": "chipsalliance",
                     "repo": "Surelog",
-                    "stars": 472,
+                    "stars": 473,
                     "topics": [
                       "antlr",
                       "antlr4-grammar",
@@ -500,7 +500,7 @@
                     "open_issues": 24,
                     "owner": "dalance",
                     "repo": "svlint",
-                    "stars": 390,
+                    "stars": 391,
                     "topics": [
                       "lint",
                       "linter",
@@ -651,7 +651,7 @@
                     "open_issues": 74,
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1668,
+                    "stars": 1669,
                     "topics": [
                       "asic",
                       "axi",
@@ -875,7 +875,7 @@
                     "id": 40411471,
                     "language": "Haskell",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-28T21:19:56Z",
+                    "last_commit": "2026-08-30T01:52:37Z",
                     "open_issues": 1036,
                     "owner": "agda",
                     "repo": "agda",
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:22:42.546Z",
+    "last_updated": "2026-08-30T05:48:54.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
