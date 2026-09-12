@@ -25,9 +25,9 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Formal Verification
 
 * [ivy](https://github.com/microsoft/ivy) ⚠️ Archived - IVy is a research tool/language intended to allow interactive development of protocols and their proofs of correctness and to provide a platform for developing and experimenting with automated proof techniques.
-* [Verity](https://github.com/th0rgal/verity) ⭐ 148 | 🐛 26 | 🌐 Lean | 📅 2026-09-10 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
-* [Panther](https://github.com/ElNiak/PANTHER) ⭐ 42 | 🐛 21 | 🌐 Python | 📅 2026-09-09 - This tool presents a novel approach to bolstering network protocol verification by integrating the Shadow network simulator with the Ivy formal verification tool to check time properties. Furthermore, it extends Ivy's capabilities with a dedicated time module, enabling the verification of complex quantitative-time properties.
-* [ProofOS](https://github.com/Aevion-ai/ProofOS) ⭐ 0 | 🐛 94 | 🌐 Python | 📅 2026-09-10 - Receipt-chained proof obligation ledger for Lean 4. Publishes a machine-readable open-obligation surface (Godel register) with SHA-256 canonical receipts and a multi-agent counsel colony for adversarial review.
+* [Verity](https://github.com/th0rgal/verity) ⭐ 148 | 🐛 25 | 🌐 Lean | 📅 2026-09-11 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
+* [Panther](https://github.com/ElNiak/PANTHER) ⭐ 42 | 🐛 21 | 🌐 Python | 📅 2026-09-11 - This tool presents a novel approach to bolstering network protocol verification by integrating the Shadow network simulator with the Ivy formal verification tool to check time properties. Furthermore, it extends Ivy's capabilities with a dedicated time module, enabling the verification of complex quantitative-time properties.
+* [ProofOS](https://github.com/Aevion-ai/ProofOS) ⭐ 0 | 🐛 96 | 🌐 Python | 📅 2026-09-11 - Receipt-chained proof obligation ledger for Lean 4. Publishes a machine-readable open-obligation surface (Godel register) with SHA-256 canonical receipts and a multi-agent counsel colony for adversarial review.
 * [Uppaal](https://uppaal.org/) - Uppaal is an integrated tool environment for modeling, validation and verification of real-time systems modeled as networks of timed automata, extended with data types (bounded integers, arrays, etc.).
 * [BLAST](https://cseweb.ucsd.edu/~rjhala/blast.html) - BLAST is a software model checker for C programs. The goal of BLAST is to be able to check that software satisfies behavioral properties of the interfaces it uses. Blast uses counterexample-driven automatic abstraction refinement to construct an abstract model which is model checked for safety properties. The abstraction is constructed /on-the-fly/, and only to the /required precision/. The BLAST project is supported by the National Science Foundation .
 * [PRISM](https://www.prismmodelchecker.org/) -  PRISM is a probabilistic model checker, a tool for formal modelling and analysis of systems that exhibit random or probabilistic behaviour. It has been used to analyse systems from many different application domains, including communication and multimedia protocols, randomised distributed algorithms, security protocols, biological systems and many others.
@@ -84,7 +84,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 #### Simulation
 
-* [Icarus Verilog](https://github.com/steveicarus/iverilog) ⭐ 3,633 | 🐛 185 | 🌐 C++ | 📅 2026-09-10 - The excellent Icarus Verilog simulator. Slower than Verilator, but it supports full 4-state simulation (i.e. X's and Z's).
+* [Icarus Verilog](https://github.com/steveicarus/iverilog) ⭐ 3,632 | 🐛 186 | 🌐 C++ | 📅 2026-09-10 - The excellent Icarus Verilog simulator. Slower than Verilator, but it supports full 4-state simulation (i.e. X's and Z's).
 * [Verilator](https://www.veripool.org/projects/verilator/wiki/Intro) - Verilator is  "the fastest free Verilog HDL simulator". From a verification perspective it supports *line coverage*, *signal toggle coverage* and limited specification of *functional coverage* using SystemVerilog Assertions. It also allows one to write testbenches in C++ or SystemC.
 
 #### Build Systems and Continuous Integration
@@ -95,7 +95,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Test / Program / Code Generators
 
 * [riscv-dv](https://github.com/chipsalliance/riscv-dv) ⭐ 1,353 | 🐛 167 | 🌐 Python | 📅 2026-09-04 - Instruction sequence generator for RISC-V.
-* [rggen](https://github.com/rggen/rggen) ⭐ 469 | 🐛 23 | 🌐 Ruby | 📅 2026-08-16 - Code generation tool for configuration and status registers.
+* [rggen](https://github.com/rggen/rggen) ⭐ 470 | 🐛 23 | 🌐 Ruby | 📅 2026-09-11 - Code generation tool for configuration and status registers.
 * [FORCE-RISCV](https://github.com/openhwgroup/force-riscv) ⭐ 314 | 🐛 20 | 🌐 C++ | 📅 2023-10-17 - Instruction sequence generator for RISC-V.
 * [AAPG (Automated Assembly Program Generator)](https://gitlab.com/shaktiproject/tools/aapg) - Generator for assembly programs.
 
@@ -123,12 +123,12 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 #### Components / VIPs
 
-* [AXI SystemVerilog Modules and Verification Infrastructure](https://github.com/pulp-platform/axi) ⭐ 1,690 | 🐛 66 | 🌐 SystemVerilog | 📅 2026-09-10 - SystemVerilog modules and verification infrastructure for AXI bus.
+* [AXI SystemVerilog Modules and Verification Infrastructure](https://github.com/pulp-platform/axi) ⭐ 1,691 | 🐛 66 | 🌐 SystemVerilog | 📅 2026-09-10 - SystemVerilog modules and verification infrastructure for AXI bus.
 * [AXI Bus Functional Model tvip-axi](https://github.com/taichi-ishitani/tvip-axi) ⭐ 476 | 🐛 8 | 🌐 SystemVerilog | 📅 2024-06-28 - Functional model for AXI bus.
 * [RISC-V-TLM](https://github.com/mariusmm/RISC-V-TLM) ⭐ 361 | 🐛 6 | 🌐 C | 📅 2026-02-20 - A SystemC transaction level model of RISC-V.
 * [uvm\_axi](https://github.com/funningboy/uvm_axi) ⭐ 273 | 🐛 4 | 🌐 Verilog | 📅 2013-06-23 - AXI bus verification IP.
 * [AXI Bus Formal VIP](https://github.com/kumarrishav14/AXI) ⭐ 185 | 🐛 5 | 🌐 SystemVerilog | 📅 2022-05-24 - Formal verification IP for AXI bus.
-* [Cocotb Verification IPs](https://github.com/themperek/cocotb-vivado) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2026-09-04 - Various cocotb packages for common interfaces: AXI/Ethernet/PCIE.
+* [Cocotb Verification IPs](https://github.com/themperek/cocotb-vivado) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2026-09-11 - Various cocotb packages for common interfaces: AXI/Ethernet/PCIE.
 * [APB Bus Functional Model tvip-apb](https://github.com/taichi-ishitani/tvip-apb) ⭐ 35 | 🐛 1 | 🌐 SystemVerilog | 📅 2023-11-07 - Functional model for APB bus.
 * [USB 1.1 Test Suite](https://github.com/antmicro/usb-test-suite-testbenches) ⭐ 9 | 🐛 8 | 🌐 Python | 📅 2021-04-08 - Test suite for USB 1.1.
 
@@ -139,7 +139,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
   * [Idris tutorial](http://docs.idris-lang.org/en/latest/tutorial/index.html#tutorial-index)
   * [Theorem proving with Idris tutorial](http://docs.idris-lang.org/en/latest/proofs/index.html)
 * [Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php) - Dependently typed functional programming language.
-  * [Agda GitHub](https://github.com/agda/agda) ⭐ 2,930 | 🐛 1,041 | 🌐 Haskell | 📅 2026-09-10
+  * [Agda GitHub](https://github.com/agda/agda) ⭐ 2,930 | 🐛 1,043 | 🌐 Haskell | 📅 2026-09-11
   * [Agda User Manual](http://agda.readthedocs.io/en/v2.5.2/)
 * [UR/Web](http://www.impredicative.com/ur/) - Ur plus a special standard library for dynamic web applications.
 * [Haskell](https://www.haskell.org/) - An advanced, purely functional programming language.
@@ -206,4 +206,4 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
