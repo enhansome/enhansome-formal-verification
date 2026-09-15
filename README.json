@@ -40,7 +40,7 @@
                     "id": 1152936905,
                     "language": "Lean",
                     "license": "MIT",
-                    "last_commit": "2026-09-11T14:25:28Z",
+                    "last_commit": "2026-09-14T19:51:05Z",
                     "open_issues": 25,
                     "owner": "lfglabs-dev",
                     "repo": "verity",
@@ -103,8 +103,8 @@
                     "id": 1264357299,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-13T23:04:13Z",
-                    "open_issues": 100,
+                    "last_commit": "2026-09-14T15:36:59Z",
+                    "open_issues": 102,
                     "owner": "Aevion-ai",
                     "repo": "ProofOS",
                     "stars": 0,
@@ -184,7 +184,7 @@
                     "open_issues": 228,
                     "owner": "berkeley-abc",
                     "repo": "abc",
-                    "stars": 1220,
+                    "stars": 1222,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -251,10 +251,10 @@
                     "language": "C++",
                     "license": "GPL-2.0",
                     "last_commit": "2026-09-13T23:04:27Z",
-                    "open_issues": 188,
+                    "open_issues": 192,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3632,
+                    "stars": 3634,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -318,7 +318,7 @@
                     "open_issues": 167,
                     "owner": "chipsalliance",
                     "repo": "riscv-dv",
-                    "stars": 1353,
+                    "stars": 1354,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -339,7 +339,7 @@
                     "open_issues": 23,
                     "owner": "rggen",
                     "repo": "rggen",
-                    "stars": 470,
+                    "stars": 469,
                     "topics": [
                       "amba",
                       "apb",
@@ -460,7 +460,7 @@
                     "id": 218417034,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T00:22:41Z",
+                    "last_commit": "2026-09-14T16:38:19Z",
                     "open_issues": 47,
                     "owner": "chipsalliance",
                     "repo": "Surelog",
@@ -651,7 +651,7 @@
                     "open_issues": 66,
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1691,
+                    "stars": 1695,
                     "topics": [
                       "asic",
                       "axi",
@@ -683,7 +683,7 @@
                     "open_issues": 8,
                     "owner": "taichi-ishitani",
                     "repo": "tvip-axi",
-                    "stars": 476,
+                    "stars": 477,
                     "topics": [
                       "amba",
                       "amba-axi",
@@ -759,7 +759,7 @@
                     "open_issues": 5,
                     "owner": "kumarrishav14",
                     "repo": "AXI",
-                    "stars": 185,
+                    "stars": 187,
                     "topics": [
                       "amba-axi",
                       "asic-verification",
@@ -782,8 +782,8 @@
                     "id": 744198784,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-12T15:36:38Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-09-14T17:40:16Z",
+                    "open_issues": 4,
                     "owner": "themperek",
                     "repo": "cocotb-vivado",
                     "stars": 75,
@@ -876,10 +876,10 @@
                     "language": "Haskell",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-13T06:15:47Z",
-                    "open_issues": 1042,
+                    "open_issues": 1043,
                     "owner": "agda",
                     "repo": "agda",
-                    "stars": 2932,
+                    "stars": 2931,
                     "topics": [
                       "agda",
                       "dependent-types",
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T05:26:55.275Z",
+    "last_updated": "2026-09-15T05:21:31.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
