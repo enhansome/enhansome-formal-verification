@@ -460,7 +460,7 @@
                     "id": 218417034,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T23:13:48Z",
+                    "last_commit": "2026-10-03T05:43:29Z",
                     "open_issues": 48,
                     "owner": "chipsalliance",
                     "repo": "Surelog",
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:43:45.943Z",
+    "last_updated": "2026-10-03T05:44:12.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",

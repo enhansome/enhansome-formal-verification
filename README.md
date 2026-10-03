@@ -106,7 +106,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Linting and Parsing
 
 * [sv-parser](https://github.com/dalance/sv-parser) ⭐ 482 | 🐛 41 | 🌐 Rust | 📅 2026-06-10 - SystemVerilog parser.
-* [Surelog](https://github.com/chipsalliance/Surelog) ⭐ 475 | 🐛 48 | 🌐 C++ | 📅 2026-10-02 - SystemVerilog pre-processor and parser.
+* [Surelog](https://github.com/chipsalliance/Surelog) ⭐ 475 | 🐛 48 | 🌐 C++ | 📅 2026-10-03 - SystemVerilog pre-processor and parser.
 * [svlint](https://github.com/dalance/svlint) ⭐ 393 | 🐛 24 | 🌐 Rust | 📅 2025-11-06 - Linter for SystemVerilog.
 
 #### Testbench Frameworks
