@@ -40,7 +40,7 @@
                     "id": 1152936905,
                     "language": "Lean",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T03:02:15Z",
+                    "last_commit": "2026-10-11T05:05:35Z",
                     "open_issues": 40,
                     "owner": "lfglabs-dev",
                     "repo": "verity",
@@ -103,8 +103,8 @@
                     "id": 1264357299,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T14:43:35Z",
-                    "open_issues": 153,
+                    "last_commit": "2026-10-10T14:30:50Z",
+                    "open_issues": 155,
                     "owner": "Aevion-ai",
                     "repo": "ProofOS",
                     "stars": 0,
@@ -180,11 +180,11 @@
                     "id": 124750053,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-10T06:16:27Z",
-                    "open_issues": 232,
+                    "last_commit": "2026-10-11T05:15:01Z",
+                    "open_issues": 229,
                     "owner": "berkeley-abc",
                     "repo": "abc",
-                    "stars": 1237,
+                    "stars": 1238,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -250,11 +250,11 @@
                     "id": 16267,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-09T02:54:27Z",
-                    "open_issues": 197,
+                    "last_commit": "2026-10-10T16:06:25Z",
+                    "open_issues": 213,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3669,
+                    "stars": 3671,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -282,7 +282,7 @@
                     "open_issues": 156,
                     "owner": "olofk",
                     "repo": "fusesoc",
-                    "stars": 1473,
+                    "stars": 1474,
                     "topics": [
                       "eda",
                       "fpga",
@@ -318,7 +318,7 @@
                     "open_issues": 170,
                     "owner": "chipsalliance",
                     "repo": "riscv-dv",
-                    "stars": 1363,
+                    "stars": 1364,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -651,7 +651,7 @@
                     "open_issues": 62,
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1715,
+                    "stars": 1717,
                     "topics": [
                       "asic",
                       "axi",
@@ -875,11 +875,11 @@
                     "id": 40411471,
                     "language": "Haskell",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-09T19:19:13Z",
-                    "open_issues": 1049,
+                    "last_commit": "2026-10-11T01:55:10Z",
+                    "open_issues": 1047,
                     "owner": "agda",
                     "repo": "agda",
-                    "stars": 2936,
+                    "stars": 2937,
                     "topics": [
                       "agda",
                       "dependent-types",
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:22:45.837Z",
+    "last_updated": "2026-10-11T06:26:37.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
@@ -914,7 +914,7 @@
       "open_issues": 0,
       "owner": "ElNiak",
       "repo": "awesome-formal-verification",
-      "stars": 191,
+      "stars": 192,
       "topics": [
         "awesome",
         "awesome-list",
