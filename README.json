@@ -93,6 +93,40 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "KERN",
+                  "description": "Zero-trust verification gateway: a claim is admitted only with machine evidence. It re-checks every Z3 proof DAG inside its own Zig kernel, records verdicts in a Belnap B4 lattice, ships 42 Lean 4 theorems (0 ), and verifies / contracts in Python, Zig, C and Rust (including i32 overflow and division by zero). Source-available under the PolyForm Noncommercial 1.0.0 licence.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Zero-trust L0-L5 verification gateway in Zig 0.17: native Z3 proof-DAG checker, Belnap B4 logic, 42 Lean 4 theorems (0 sorry), 8-lane SIMD BLAKE3 (.kimg) & MCP server.",
+                    "homepage": "https://newmathphys.github.io/kern/",
+                    "id": 1413765221,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-27T19:10:10Z",
+                    "open_issues": 1,
+                    "owner": "newmathphys",
+                    "repo": "kern",
+                    "stars": 10,
+                    "topics": [
+                      "ai-safety",
+                      "belnap-logic",
+                      "blake3",
+                      "formal-verification",
+                      "lean4",
+                      "mcp-server",
+                      "mutation-testing",
+                      "proof-carrying-code",
+                      "smt",
+                      "static-analysis",
+                      "z3",
+                      "zig"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T06:17:27.300Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "ProofOS",
                   "description": "Receipt-chained proof obligation ledger for Lean 4. Publishes a machine-readable open-obligation surface (Godel register) with SHA-256 canonical receipts and a multi-agent counsel colony for adversarial review.",
                   "children": [],
@@ -103,8 +137,8 @@
                     "id": 1264357299,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-27T00:32:57Z",
-                    "open_issues": 186,
+                    "last_commit": "2026-10-27T18:33:44Z",
+                    "open_issues": 5,
                     "owner": "Aevion-ai",
                     "repo": "ProofOS",
                     "stars": 0,
@@ -205,7 +239,7 @@
                     "open_issues": 24,
                     "owner": "SymbioticEDA",
                     "repo": "riscv-formal",
-                    "stars": 633,
+                    "stars": 634,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -251,10 +285,10 @@
                     "language": "C++",
                     "license": "GPL-2.0",
                     "last_commit": "2026-10-27T03:41:23Z",
-                    "open_issues": 212,
+                    "open_issues": 219,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3695,
+                    "stars": 3702,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -530,8 +564,8 @@
                     "id": 50093478,
                     "language": "VHDL",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T15:30:51Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-10-27T09:13:32Z",
+                    "open_issues": 8,
                     "owner": "UVVM",
                     "repo": "UVVM",
                     "stars": 467,
@@ -651,7 +685,7 @@
                     "open_issues": 65,
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1737,
+                    "stars": 1738,
                     "topics": [
                       "asic",
                       "axi",
@@ -879,7 +913,7 @@
                     "open_issues": 1046,
                     "owner": "agda",
                     "repo": "agda",
-                    "stars": 2955,
+                    "stars": 2957,
                     "topics": [
                       "agda",
                       "dependent-types",
@@ -902,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T05:36:02.362Z",
+    "last_updated": "2026-10-28T06:17:27.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
@@ -910,8 +944,8 @@
       "id": 839693837,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-06-27T14:35:56Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-27T07:38:57Z",
+      "open_issues": 0,
       "owner": "ElNiak",
       "repo": "awesome-formal-verification",
       "stars": 201,
@@ -933,7 +967,7 @@
         "verification"
       ]
     },
-    "original_repository_sha": "d8b5e314d1c894d1c6fb1490691513cc66a6fb8e",
+    "original_repository_sha": "e9df73fb79e0bc8a42d38d87625c20e8f4909313",
     "enhanced_repository": "enhansome/enhansome-formal-verification",
     "enhanced_repository_description": null,
     "title": "Awesome Formal Verification with stars"
