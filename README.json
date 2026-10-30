@@ -40,11 +40,11 @@
                     "id": 1152936905,
                     "language": "Lean",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T13:21:53Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-10-30T05:58:28Z",
+                    "open_issues": 12,
                     "owner": "lfglabs-dev",
                     "repo": "verity",
-                    "stars": 149,
+                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -103,7 +103,7 @@
                     "id": 1413765221,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-28T19:07:22Z",
+                    "last_commit": "2026-10-29T19:12:20Z",
                     "open_issues": 1,
                     "owner": "newmathphys",
                     "repo": "kern",
@@ -218,7 +218,7 @@
                     "open_issues": 228,
                     "owner": "berkeley-abc",
                     "repo": "abc",
-                    "stars": 1246,
+                    "stars": 1247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -284,11 +284,11 @@
                     "id": 16267,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-29T04:00:08Z",
-                    "open_issues": 209,
+                    "last_commit": "2026-10-30T04:16:52Z",
+                    "open_issues": 206,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3703,
+                    "stars": 3705,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -373,7 +373,7 @@
                     "open_issues": 23,
                     "owner": "rggen",
                     "repo": "rggen",
-                    "stars": 473,
+                    "stars": 474,
                     "topics": [
                       "amba",
                       "apb",
@@ -564,8 +564,8 @@
                     "id": 50093478,
                     "language": "VHDL",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T09:13:32Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-29T08:49:17Z",
+                    "open_issues": 7,
                     "owner": "UVVM",
                     "repo": "UVVM",
                     "stars": 467,
@@ -681,7 +681,7 @@
                     "id": 129229399,
                     "language": "SystemVerilog",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-24T16:11:10Z",
+                    "last_commit": "2026-10-29T15:56:58Z",
                     "open_issues": 65,
                     "owner": "pulp-platform",
                     "repo": "axi",
@@ -909,11 +909,11 @@
                     "id": 40411471,
                     "language": "Haskell",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-28T18:39:07Z",
-                    "open_issues": 1041,
+                    "last_commit": "2026-10-29T09:16:19Z",
+                    "open_issues": 1043,
                     "owner": "agda",
                     "repo": "agda",
-                    "stars": 2958,
+                    "stars": 2959,
                     "topics": [
                       "agda",
                       "dependent-types",
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T06:27:40.086Z",
+    "last_updated": "2026-10-30T06:26:24.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
@@ -945,10 +945,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-27T07:38:57Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "ElNiak",
       "repo": "awesome-formal-verification",
-      "stars": 203,
+      "stars": 204,
       "topics": [
         "awesome",
         "awesome-list",
