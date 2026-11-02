@@ -40,11 +40,11 @@
                     "id": 1152936905,
                     "language": "Lean",
                     "license": "MIT",
-                    "last_commit": "2026-11-01T06:19:00Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-11-02T01:28:34Z",
+                    "open_issues": 13,
                     "owner": "lfglabs-dev",
                     "repo": "verity",
-                    "stars": 151,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -103,7 +103,7 @@
                     "id": 1413765221,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-31T12:03:25Z",
+                    "last_commit": "2026-11-01T20:22:43Z",
                     "open_issues": 3,
                     "owner": "newmathphys",
                     "repo": "kern",
@@ -214,8 +214,8 @@
                     "id": 124750053,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-31T19:02:51Z",
-                    "open_issues": 231,
+                    "last_commit": "2026-11-02T05:35:18Z",
+                    "open_issues": 230,
                     "owner": "berkeley-abc",
                     "repo": "abc",
                     "stars": 1249,
@@ -260,7 +260,7 @@
                     "open_issues": 2,
                     "owner": "YosysHQ",
                     "repo": "mcy",
-                    "stars": 102,
+                    "stars": 103,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -284,11 +284,11 @@
                     "id": 16267,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-01T04:05:57Z",
+                    "last_commit": "2026-11-02T00:53:44Z",
                     "open_issues": 206,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3709,
+                    "stars": 3711,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -494,8 +494,8 @@
                     "id": 218417034,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T20:50:18Z",
-                    "open_issues": 47,
+                    "last_commit": "2026-11-02T04:26:53Z",
+                    "open_issues": 49,
                     "owner": "chipsalliance",
                     "repo": "Surelog",
                     "stars": 476,
@@ -685,7 +685,7 @@
                     "open_issues": 65,
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1742,
+                    "stars": 1743,
                     "topics": [
                       "asic",
                       "axi",
@@ -820,7 +820,7 @@
                     "open_issues": 1,
                     "owner": "themperek",
                     "repo": "cocotb-vivado",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": [
                       "cocotb",
                       "python",
@@ -913,7 +913,7 @@
                     "open_issues": 1047,
                     "owner": "agda",
                     "repo": "agda",
-                    "stars": 2962,
+                    "stars": 2964,
                     "topics": [
                       "agda",
                       "dependent-types",
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:50:38.079Z",
+    "last_updated": "2026-11-02T06:49:13.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
