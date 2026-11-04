@@ -44,7 +44,7 @@
                     "open_issues": 13,
                     "owner": "lfglabs-dev",
                     "repo": "verity",
-                    "stars": 153,
+                    "stars": 156,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -103,7 +103,7 @@
                     "id": 1413765221,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T19:55:14Z",
+                    "last_commit": "2026-11-03T18:09:31Z",
                     "open_issues": 3,
                     "owner": "newmathphys",
                     "repo": "kern",
@@ -214,7 +214,7 @@
                     "id": 124750053,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T05:35:18Z",
+                    "last_commit": "2026-11-04T02:18:32Z",
                     "open_issues": 230,
                     "owner": "berkeley-abc",
                     "repo": "abc",
@@ -284,11 +284,11 @@
                     "id": 16267,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-02T00:53:44Z",
+                    "last_commit": "2026-11-04T06:14:26Z",
                     "open_issues": 213,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3711,
+                    "stars": 3714,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -316,7 +316,7 @@
                     "open_issues": 154,
                     "owner": "olofk",
                     "repo": "fusesoc",
-                    "stars": 1481,
+                    "stars": 1482,
                     "topics": [
                       "eda",
                       "fpga",
@@ -494,7 +494,7 @@
                     "id": 218417034,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-03T05:13:16Z",
+                    "last_commit": "2026-11-03T23:41:55Z",
                     "open_issues": 47,
                     "owner": "chipsalliance",
                     "repo": "Surelog",
@@ -717,7 +717,7 @@
                     "open_issues": 8,
                     "owner": "taichi-ishitani",
                     "repo": "tvip-axi",
-                    "stars": 483,
+                    "stars": 484,
                     "topics": [
                       "amba",
                       "amba-axi",
@@ -909,8 +909,8 @@
                     "id": 40411471,
                     "language": "Haskell",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T09:31:59Z",
-                    "open_issues": 1048,
+                    "last_commit": "2026-11-04T05:54:26Z",
+                    "open_issues": 1044,
                     "owner": "agda",
                     "repo": "agda",
                     "stars": 2964,
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:14:08.474Z",
+    "last_updated": "2026-11-04T06:58:25.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
