@@ -25,9 +25,9 @@ Welcome to the ultimate list of resources for formal verification/model checking
 #### Formal Verification
 
 * [ivy](https://github.com/microsoft/ivy) ⚠️ Archived - IVy is a research tool/language intended to allow interactive development of protocols and their proofs of correctness and to provide a platform for developing and experimenting with automated proof techniques.
-* [Verity](https://github.com/th0rgal/verity) ⭐ 158 | 🐛 11 | 🌐 Lean | 📅 2026-11-05 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
+* [Verity](https://github.com/th0rgal/verity) ⭐ 158 | 🐛 14 | 🌐 Lean | 📅 2026-11-07 - Lean 4 framework for formally specified and verified smart contracts, with EVM-oriented compilation.
 * [Panther](https://github.com/ElNiak/PANTHER) ⭐ 44 | 🐛 21 | 🌐 Python | 📅 2026-11-04 - This tool presents a novel approach to bolstering network protocol verification by integrating the Shadow network simulator with the Ivy formal verification tool to check time properties. Furthermore, it extends Ivy's capabilities with a dedicated time module, enabling the verification of complex quantitative-time properties.
-* [KERN](https://github.com/newmathphys/kern) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-11-05 - Zero-trust verification gateway: a claim is admitted only with machine evidence. It re-checks every Z3 `unsat` proof DAG inside its own Zig kernel, records verdicts in a Belnap B4 lattice, ships 42 Lean 4 theorems (0 `sorry`), and verifies `@kern:requires`/`@kern:ensures` contracts in Python, Zig, C and Rust (including i32 overflow and division by zero). Source-available under the PolyForm Noncommercial 1.0.0 licence.
+* [KERN](https://github.com/newmathphys/kern) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-11-06 - Zero-trust verification gateway: a claim is admitted only with machine evidence. It re-checks every Z3 `unsat` proof DAG inside its own Zig kernel, records verdicts in a Belnap B4 lattice, ships 42 Lean 4 theorems (0 `sorry`), and verifies `@kern:requires`/`@kern:ensures` contracts in Python, Zig, C and Rust (including i32 overflow and division by zero). Source-available under the PolyForm Noncommercial 1.0.0 licence.
 * [ProofOS](https://github.com/Aevion-ai/ProofOS) ⭐ 0 | 🐛 5 | 🌐 Python | 📅 2026-10-27 - Receipt-chained proof obligation ledger for Lean 4. Publishes a machine-readable open-obligation surface (Godel register) with SHA-256 canonical receipts and a multi-agent counsel colony for adversarial review.
 * [Uppaal](https://uppaal.org/) - Uppaal is an integrated tool environment for modeling, validation and verification of real-time systems modeled as networks of timed automata, extended with data types (bounded integers, arrays, etc.).
 * [BLAST](https://cseweb.ucsd.edu/~rjhala/blast.html) - BLAST is a software model checker for C programs. The goal of BLAST is to be able to check that software satisfies behavioral properties of the interfaces it uses. Blast uses counterexample-driven automatic abstraction refinement to construct an abstract model which is model checked for safety properties. The abstraction is constructed /on-the-fly/, and only to the /required precision/. The BLAST project is supported by the National Science Foundation .
@@ -85,12 +85,12 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 #### Simulation
 
-* [Icarus Verilog](https://github.com/steveicarus/iverilog) ⭐ 3,722 | 🐛 207 | 🌐 C++ | 📅 2026-11-06 - The excellent Icarus Verilog simulator. Slower than Verilator, but it supports full 4-state simulation (i.e. X's and Z's).
+* [Icarus Verilog](https://github.com/steveicarus/iverilog) ⭐ 3,722 | 🐛 201 | 🌐 C++ | 📅 2026-11-06 - The excellent Icarus Verilog simulator. Slower than Verilator, but it supports full 4-state simulation (i.e. X's and Z's).
 * [Verilator](https://www.veripool.org/projects/verilator/wiki/Intro) - Verilator is  "the fastest free Verilog HDL simulator". From a verification perspective it supports *line coverage*, *signal toggle coverage* and limited specification of *functional coverage* using SystemVerilog Assertions. It also allows one to write testbenches in C++ or SystemC.
 
 #### Build Systems and Continuous Integration
 
-* [FuseSoc](https://github.com/olofk/fusesoc) ⭐ 1,482 | 🐛 154 | 🌐 Python | 📅 2026-10-23 - FuseSoC is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code. Its main purpose is to increase reuse of IP (Intellectual Property) cores and be an aid for creating, building and simulating SoC solutions.
+* [FuseSoc](https://github.com/olofk/fusesoc) ⭐ 1,482 | 🐛 158 | 🌐 Python | 📅 2026-11-06 - FuseSoC is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code. Its main purpose is to increase reuse of IP (Intellectual Property) cores and be an aid for creating, building and simulating SoC solutions.
 * [LibreCores CI](https://www.librecores.org/static/librecores-ci) - LibreCores CI is a service, which provides Continuous Integration of projects being hosted on LibreCores. The objective of the service is to improve the contributor experience and to increase trust to projects by providing automated testing and health metrics of the projects.
 
 #### Test / Program / Code Generators
@@ -115,7 +115,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
 * [UVVM](https://github.com/UVVM/UVVM) ⭐ 467 | 🐛 10 | 🌐 VHDL | 📅 2026-10-29 - Universal VHDL Verification Methodology.
 * [chiselverify](https://github.com/chiselverify/chiselverify) ⭐ 163 | 🐛 8 | 🌐 Scala | 📅 2024-11-09 - UVM-like verification for the Chisel HDL.
 * [fvutils/pyvsc](https://github.com/fvutils/pyvsc) ⭐ 149 | 🐛 51 | 🌐 Python | 📅 2026-11-03 - Python packages providing a library for verification stimulus and coverage.
-* [ROHD Verification Framework](https://github.com/intel/rohd-vf) ⭐ 48 | 🐛 5 | 🌐 Dart | 📅 2026-07-13 - Hardware verification framework upon ROHD for building and executing testbenches.
+* [ROHD Verification Framework](https://github.com/intel/rohd-vf) ⭐ 48 | 🐛 5 | 🌐 Dart | 📅 2026-11-07 - Hardware verification framework upon ROHD for building and executing testbenches.
 * [cocotb](https://www.cocotb.org/) - Python based testbench environment for many simulators.
 * [cocotb-coverage](https://cocotb-coverage.readthedocs.io) - Functional coverage and constrained randomization extensions for Cocotb.
 * [OSVVM](https://osvvm.org/) - Open Source VHDL Verification Methodology.
@@ -140,7 +140,7 @@ Welcome to the ultimate list of resources for formal verification/model checking
   * [Idris tutorial](http://docs.idris-lang.org/en/latest/tutorial/index.html#tutorial-index)
   * [Theorem proving with Idris tutorial](http://docs.idris-lang.org/en/latest/proofs/index.html)
 * [Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php) - Dependently typed functional programming language.
-  * [Agda GitHub](https://github.com/agda/agda) ⭐ 2,966 | 🐛 1,045 | 🌐 Haskell | 📅 2026-11-05
+  * [Agda GitHub](https://github.com/agda/agda) ⭐ 2,966 | 🐛 1,047 | 🌐 Haskell | 📅 2026-11-06
   * [Agda User Manual](http://agda.readthedocs.io/en/v2.5.2/)
 * [UR/Web](http://www.impredicative.com/ur/) - Ur plus a special standard library for dynamic web applications.
 * [Haskell](https://www.haskell.org/) - An advanced, purely functional programming language.
@@ -207,4 +207,4 @@ Welcome to the ultimate list of resources for formal verification/model checking
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
