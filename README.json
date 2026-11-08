@@ -40,11 +40,11 @@
                     "id": 1152936905,
                     "language": "Lean",
                     "license": "MIT",
-                    "last_commit": "2026-11-07T06:28:52Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-11-08T02:28:53Z",
+                    "open_issues": 13,
                     "owner": "lfglabs-dev",
                     "repo": "verity",
-                    "stars": 158,
+                    "stars": 159,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -102,12 +102,12 @@
                     "homepage": "https://newmathphys.github.io/kern/",
                     "id": 1413765221,
                     "language": "Python",
-                    "license": "AGPL-3.0",
-                    "last_commit": "2026-11-06T20:17:08Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-07T19:56:38Z",
                     "open_issues": 3,
                     "owner": "newmathphys",
                     "repo": "kern",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": [
                       "ai-safety",
                       "belnap-logic",
@@ -214,11 +214,11 @@
                     "id": 124750053,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-04T02:18:32Z",
+                    "last_commit": "2026-11-08T02:22:23Z",
                     "open_issues": 231,
                     "owner": "berkeley-abc",
                     "repo": "abc",
-                    "stars": 1251,
+                    "stars": 1253,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -284,11 +284,11 @@
                     "id": 16267,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-06T17:35:21Z",
-                    "open_issues": 201,
+                    "last_commit": "2026-11-07T23:10:05Z",
+                    "open_issues": 204,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3722,
+                    "stars": 3723,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -498,7 +498,7 @@
                     "open_issues": 47,
                     "owner": "chipsalliance",
                     "repo": "Surelog",
-                    "stars": 477,
+                    "stars": 478,
                     "topics": [
                       "antlr",
                       "antlr4-grammar",
@@ -682,10 +682,10 @@
                     "language": "SystemVerilog",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-02T13:56:15Z",
-                    "open_issues": 68,
+                    "open_issues": 69,
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1748,
+                    "stars": 1749,
                     "topics": [
                       "asic",
                       "axi",
@@ -909,8 +909,8 @@
                     "id": 40411471,
                     "language": "Haskell",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-06T18:29:45Z",
-                    "open_issues": 1047,
+                    "last_commit": "2026-11-08T01:30:27Z",
+                    "open_issues": 1049,
                     "owner": "agda",
                     "repo": "agda",
                     "stars": 2966,
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T06:35:31.152Z",
+    "last_updated": "2026-11-08T06:42:01.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
@@ -948,7 +948,7 @@
       "open_issues": 1,
       "owner": "ElNiak",
       "repo": "awesome-formal-verification",
-      "stars": 210,
+      "stars": 211,
       "topics": [
         "awesome",
         "awesome-list",
