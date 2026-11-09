@@ -40,7 +40,7 @@
                     "id": 1152936905,
                     "language": "Lean",
                     "license": "MIT",
-                    "last_commit": "2026-11-08T02:28:53Z",
+                    "last_commit": "2026-11-09T03:07:08Z",
                     "open_issues": 13,
                     "owner": "lfglabs-dev",
                     "repo": "verity",
@@ -103,7 +103,7 @@
                     "id": 1413765221,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-07T19:56:38Z",
+                    "last_commit": "2026-11-08T14:57:30Z",
                     "open_issues": 3,
                     "owner": "newmathphys",
                     "repo": "kern",
@@ -214,11 +214,11 @@
                     "id": 124750053,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-08T02:22:23Z",
-                    "open_issues": 231,
+                    "last_commit": "2026-11-08T07:57:07Z",
+                    "open_issues": 230,
                     "owner": "berkeley-abc",
                     "repo": "abc",
-                    "stars": 1253,
+                    "stars": 1255,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -284,11 +284,11 @@
                     "id": 16267,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-07T23:10:05Z",
-                    "open_issues": 204,
+                    "last_commit": "2026-11-09T01:14:10Z",
+                    "open_issues": 215,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3723,
+                    "stars": 3725,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -316,7 +316,7 @@
                     "open_issues": 158,
                     "owner": "olofk",
                     "repo": "fusesoc",
-                    "stars": 1482,
+                    "stars": 1483,
                     "topics": [
                       "eda",
                       "fpga",
@@ -352,7 +352,7 @@
                     "open_issues": 171,
                     "owner": "chipsalliance",
                     "repo": "riscv-dv",
-                    "stars": 1376,
+                    "stars": 1377,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -685,7 +685,7 @@
                     "open_issues": 69,
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1749,
+                    "stars": 1750,
                     "topics": [
                       "asic",
                       "axi",
@@ -820,7 +820,7 @@
                     "open_issues": 1,
                     "owner": "themperek",
                     "repo": "cocotb-vivado",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": [
                       "cocotb",
                       "python",
@@ -910,10 +910,10 @@
                     "language": "Haskell",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-08T01:30:27Z",
-                    "open_issues": 1049,
+                    "open_issues": 1052,
                     "owner": "agda",
                     "repo": "agda",
-                    "stars": 2966,
+                    "stars": 2967,
                     "topics": [
                       "agda",
                       "dependent-types",
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T06:42:01.636Z",
+    "last_updated": "2026-11-09T07:11:27.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
