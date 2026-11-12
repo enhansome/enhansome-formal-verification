@@ -40,7 +40,7 @@
                     "id": 1152936905,
                     "language": "Lean",
                     "license": "MIT",
-                    "last_commit": "2026-11-11T00:38:34Z",
+                    "last_commit": "2026-11-12T07:01:24Z",
                     "open_issues": 16,
                     "owner": "lfglabs-dev",
                     "repo": "verity",
@@ -103,7 +103,7 @@
                     "id": 1413765221,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-10T19:25:10Z",
+                    "last_commit": "2026-11-11T19:55:37Z",
                     "open_issues": 3,
                     "owner": "newmathphys",
                     "repo": "kern",
@@ -124,6 +124,37 @@
                     ]
                   },
                   "first_seen": "2026-10-28T06:17:27.300Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "z3cache",
+                  "description": "Drop-in replacement for the binary that caches solver answers, so that Verus proofs already checked in one run or git worktree are not re-proved in another. A cache hit is an exact replay: the same Z3 binary once gave that answer to the same command sequence.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A drop-in z3 replacement that caches solver answers for Verus, shared across git worktrees",
+                    "homepage": null,
+                    "id": 1453505842,
+                    "language": "Rust",
+                    "license": "MIT",
+                    "last_commit": "2026-11-11T10:53:33Z",
+                    "open_issues": 0,
+                    "owner": "z3cache",
+                    "repo": "z3cache",
+                    "stars": 1,
+                    "topics": [
+                      "cache",
+                      "developer-tools",
+                      "formal-verification",
+                      "rust",
+                      "smt",
+                      "smt-solver",
+                      "verification",
+                      "verus",
+                      "z3"
+                    ]
+                  },
+                  "first_seen": "2026-11-12T07:43:29.572Z"
                 },
                 {
                   "node_type": "item",
@@ -215,7 +246,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-11T04:57:31Z",
-                    "open_issues": 230,
+                    "open_issues": 232,
                     "owner": "berkeley-abc",
                     "repo": "abc",
                     "stars": 1257,
@@ -260,7 +291,7 @@
                     "open_issues": 2,
                     "owner": "YosysHQ",
                     "repo": "mcy",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -284,11 +315,11 @@
                     "id": 16267,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-11T05:16:11Z",
-                    "open_issues": 205,
+                    "last_commit": "2026-11-12T07:38:37Z",
+                    "open_issues": 212,
                     "owner": "steveicarus",
                     "repo": "iverilog",
-                    "stars": 3735,
+                    "stars": 3737,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -313,10 +344,10 @@
                     "language": "Python",
                     "license": "BSD-2-Clause",
                     "last_commit": "2026-11-10T08:46:57Z",
-                    "open_issues": 160,
+                    "open_issues": 159,
                     "owner": "olofk",
                     "repo": "fusesoc",
-                    "stars": 1487,
+                    "stars": 1488,
                     "topics": [
                       "eda",
                       "fpga",
@@ -494,8 +525,8 @@
                     "id": 218417034,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T03:35:32Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-11-12T02:59:42Z",
+                    "open_issues": 47,
                     "owner": "chipsalliance",
                     "repo": "Surelog",
                     "stars": 480,
@@ -568,7 +599,7 @@
                     "open_issues": 7,
                     "owner": "UVVM",
                     "repo": "UVVM",
-                    "stars": 468,
+                    "stars": 466,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -681,11 +712,11 @@
                     "id": 129229399,
                     "language": "SystemVerilog",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T13:56:15Z",
-                    "open_issues": 71,
+                    "last_commit": "2026-11-11T11:19:42Z",
+                    "open_issues": 70,
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1750,
+                    "stars": 1752,
                     "topics": [
                       "asic",
                       "axi",
@@ -909,8 +940,8 @@
                     "id": 40411471,
                     "language": "Haskell",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-10T20:25:47Z",
-                    "open_issues": 1057,
+                    "last_commit": "2026-11-11T15:08:47Z",
+                    "open_issues": 1056,
                     "owner": "agda",
                     "repo": "agda",
                     "stars": 2970,
@@ -936,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:08:09.487Z",
+    "last_updated": "2026-11-12T07:43:29.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
@@ -944,7 +975,7 @@
       "id": 839693837,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-27T07:38:57Z",
+      "last_commit": "2026-11-11T15:36:25Z",
       "open_issues": 1,
       "owner": "ElNiak",
       "repo": "awesome-formal-verification",
@@ -967,7 +998,7 @@
         "verification"
       ]
     },
-    "original_repository_sha": "e9df73fb79e0bc8a42d38d87625c20e8f4909313",
+    "original_repository_sha": "38df7842244e9bffae1a326a56a202823e7ae20a",
     "enhanced_repository": "enhansome/enhansome-formal-verification",
     "enhanced_repository_description": null,
     "title": "Awesome Formal Verification with stars"
