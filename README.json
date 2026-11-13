@@ -40,11 +40,11 @@
                     "id": 1152936905,
                     "language": "Lean",
                     "license": "MIT",
-                    "last_commit": "2026-11-12T07:01:24Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-11-12T19:02:17Z",
+                    "open_issues": 67,
                     "owner": "lfglabs-dev",
                     "repo": "verity",
-                    "stars": 160,
+                    "stars": 159,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -103,7 +103,7 @@
                     "id": 1413765221,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-11T19:55:37Z",
+                    "last_commit": "2026-11-12T19:55:44Z",
                     "open_issues": 3,
                     "owner": "newmathphys",
                     "repo": "kern",
@@ -141,7 +141,7 @@
                     "open_issues": 0,
                     "owner": "z3cache",
                     "repo": "z3cache",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": [
                       "cache",
                       "developer-tools",
@@ -249,7 +249,7 @@
                     "open_issues": 232,
                     "owner": "berkeley-abc",
                     "repo": "abc",
-                    "stars": 1257,
+                    "stars": 1258,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -291,7 +291,7 @@
                     "open_issues": 2,
                     "owner": "YosysHQ",
                     "repo": "mcy",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -315,8 +315,8 @@
                     "id": 16267,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-12T07:38:37Z",
-                    "open_issues": 212,
+                    "last_commit": "2026-11-13T02:22:40Z",
+                    "open_issues": 207,
                     "owner": "steveicarus",
                     "repo": "iverilog",
                     "stars": 3737,
@@ -525,7 +525,7 @@
                     "id": 218417034,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T02:59:42Z",
+                    "last_commit": "2026-11-13T06:24:11Z",
                     "open_issues": 47,
                     "owner": "chipsalliance",
                     "repo": "Surelog",
@@ -712,11 +712,11 @@
                     "id": 129229399,
                     "language": "SystemVerilog",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-11T11:19:42Z",
-                    "open_issues": 70,
+                    "last_commit": "2026-11-12T19:54:19Z",
+                    "open_issues": 71,
                     "owner": "pulp-platform",
                     "repo": "axi",
-                    "stars": 1752,
+                    "stars": 1755,
                     "topics": [
                       "asic",
                       "axi",
@@ -940,7 +940,7 @@
                     "id": 40411471,
                     "language": "Haskell",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-11T15:08:47Z",
+                    "last_commit": "2026-11-13T06:50:15Z",
                     "open_issues": 1056,
                     "owner": "agda",
                     "repo": "agda",
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:43:29.572Z",
+    "last_updated": "2026-11-13T07:17:25.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
