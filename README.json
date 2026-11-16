@@ -246,7 +246,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-14T22:16:45Z",
-                    "open_issues": 234,
+                    "open_issues": 235,
                     "owner": "berkeley-abc",
                     "repo": "abc",
                     "stars": 1260,
@@ -315,8 +315,8 @@
                     "id": 16267,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-15T06:49:51Z",
-                    "open_issues": 211,
+                    "last_commit": "2026-11-16T06:46:01Z",
+                    "open_issues": 210,
                     "owner": "steveicarus",
                     "repo": "iverilog",
                     "stars": 3742,
@@ -383,7 +383,7 @@
                     "open_issues": 171,
                     "owner": "chipsalliance",
                     "repo": "riscv-dv",
-                    "stars": 1378,
+                    "stars": 1379,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -502,7 +502,7 @@
                     "open_issues": 42,
                     "owner": "dalance",
                     "repo": "sv-parser",
-                    "stars": 486,
+                    "stars": 487,
                     "topics": [
                       "parser",
                       "rust",
@@ -526,7 +526,7 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-14T20:36:24Z",
-                    "open_issues": 47,
+                    "open_issues": 48,
                     "owner": "chipsalliance",
                     "repo": "Surelog",
                     "stars": 481,
@@ -565,7 +565,7 @@
                     "open_issues": 25,
                     "owner": "dalance",
                     "repo": "svlint",
-                    "stars": 397,
+                    "stars": 398,
                     "topics": [
                       "lint",
                       "linter",
@@ -599,7 +599,7 @@
                     "open_issues": 7,
                     "owner": "UVVM",
                     "repo": "UVVM",
-                    "stars": 469,
+                    "stars": 471,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:13:38.369Z"
@@ -745,7 +745,7 @@
                     "language": "SystemVerilog",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-01T03:24:07Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "taichi-ishitani",
                     "repo": "tvip-axi",
                     "stars": 485,
@@ -944,7 +944,7 @@
                     "open_issues": 1051,
                     "owner": "agda",
                     "repo": "agda",
-                    "stars": 2975,
+                    "stars": 2976,
                     "topics": [
                       "agda",
                       "dependent-types",
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:11:43.622Z",
+    "last_updated": "2026-11-16T07:17:04.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for formal verification techniques and tools. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
